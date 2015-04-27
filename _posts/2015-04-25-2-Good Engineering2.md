@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Good Engineering
-title: Here is another example of bad engineering
+title: Here is another example of good engineering
 description: |
 ---
 
