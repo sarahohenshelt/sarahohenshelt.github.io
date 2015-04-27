@@ -1,6 +1,6 @@
 ---
 layout: default
-<!--img: ipad.png-->
+img: ipad.png
 category: Bad Engineering
 title: Here is an example of bad engineering
 description: |
