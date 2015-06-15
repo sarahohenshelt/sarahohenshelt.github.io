@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: DSC_0370.JPG
 category: Good Engineering
 title: Here is another example of good engineering
 description: |
