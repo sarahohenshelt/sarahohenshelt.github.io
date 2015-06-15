@@ -1,8 +1,10 @@
 ---
 layout: default
 img: DSC_0925.jpg
-category: Services
+caption: The Pyramids of Giza
+category: Good Engineering
 title: About Me
+date: 2015-06-14
 description: Here is a description
 ---
 

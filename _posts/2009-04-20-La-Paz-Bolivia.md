@@ -1,9 +1,10 @@
 ---
 layout: default
 img: DSC_0524.JPG
+caption: Caption
 category: Services
 title: La Paz, Bolivia
-description: 04/2009
+date: 04/2009
 ---
 
 Not quite sure what the planned order of operations was here…
