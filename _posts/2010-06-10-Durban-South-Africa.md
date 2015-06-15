@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 img: South_Aftica (258).JPG
 category: Services
