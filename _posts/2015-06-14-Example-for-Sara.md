@@ -1,9 +1,9 @@
-﻿---
+---
 layout: default
-img: ipad.png
-category: Good Engineering
-title: Here is another example of good engineering
-description: |
+img: 
+category: Services
+title: About Me
+description: Here is a description
 ---
 
-Let me tell you a little about better engineering
+Here is some content
