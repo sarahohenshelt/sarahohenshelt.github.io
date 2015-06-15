@@ -1,6 +1,6 @@
 ---
 layout: default
-img: DSC_0524.jpg
+img: DSC_0524.JPG
 category: Services
 title: La Paz, Bolivia
 description: 04/2009
