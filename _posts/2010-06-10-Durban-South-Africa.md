@@ -6,5 +6,5 @@ title: Durban, South Africa
 description: 06/2010
 ---
 
-The Moses Mabhid Stadium
+The Moses Mabhid Stadium 
 
