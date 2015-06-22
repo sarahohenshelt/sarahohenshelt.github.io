@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 img: DSC_0524.JPG
 caption: Caption
 category: good engineering

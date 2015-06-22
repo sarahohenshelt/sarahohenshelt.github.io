@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 img: South_Aftica (258).JPG
 caption: Caption
 category: good engineering
