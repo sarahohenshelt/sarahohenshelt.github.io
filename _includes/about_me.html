@@ -1,0 +1,7 @@
+<section id="about">
+{% for post in site.posts %}
+  {% if post.category == 'about me' %}
+    {% include post_left.html %}
+  {% endif %}
+{% endfor %}
+</section>

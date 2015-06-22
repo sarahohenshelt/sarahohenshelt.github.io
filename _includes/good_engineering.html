@@ -1,0 +1,12 @@
+<section id="good_engineering">
+{% for post in site.posts %}
+  {% if post.category == 'good engineering' %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+      {% include post_left.html %}
+    {% else %}
+      {% include post_right.html %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</section>
