@@ -1,62 +1,36 @@
-<section id="posts">
+<section id="good_engineering">
 {% for post in site.posts %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% if post.category == 'good engineering' %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-<div class="content-section-a">
-<div class="container">
-<div class = "row">    
-  <div class="col-12">
-    <hr class="section-heading-spacer">
-    <div class="clearfix"></div>
-  </div>
-</div>
-<article class="row">
-    <div class="col-sm-8">
-      <h2 class="section-heading">{{ post.title }}</h2>        
-      <h3>{{ post.date | date: '%B %d, %Y' }}</h3>
-    </div>
-    <div class="col-sm-4 floatright">
-        <figure>
-            <a class="thumbnail" href="img/posts/{{ post.img }}">
-        <img src="img/posts/{{ post.img }}" alt="4x3 Image" class="img-responsive">
-                <figcaption>{{ post.caption }}</figcaption>
-            </a>
-        </figure>
-    </div>
-    <div class="col-sm-8 lead">
-        <p>{{ post.content }}</p>
-    </div>
-</article>
-</div>
-</div>
-{% else %}
-<div class="content-section-a">
-<div class="container">
-<div class = "row">    
-  <div class="col-12">
-    <hr class="section-heading-spacer">
-    <div class="clearfix"></div>
-  </div>
-</div>
-<article class="row">
-    <div class="col-sm-8 floatright">
-      <h2 class="section-heading">{{ post.title }}</h2>        
-      <h3>{{ post.date | date: '%B %d, %Y' }}</h3>
-    </div>
-    <div class="col-sm-4">
-        <figure>
-            <a class="thumbnail" href="img/posts/{{ post.img }}">
-        <img src="img/posts/{{ post.img }}" alt="4x3 Image" class="img-responsive">
-                <figcaption>{{ post.caption }}</figcaption>
-            </a>
-        </figure>
-    </div>
-    <div class="col-sm-8 floatright lead">
-        <p>{{ post.content }}</p>
-    </div>
-</article>
-</div>
-</div>
-{% endif %}
+      {% include post_left.html %}
+    {% else %}
+      {% include post_right.html %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</section>
+<section id="bad_engineering">
+{% for post in site.posts %}
+  {% if post.category == 'bad engineering' %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+      {% include post_left.html %}
+    {% else %}
+      {% include post_right.html %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</section>
+<section id="my_engineering">
+{% for post in site.posts %}
+  {% if post.category == 'my engineering' %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+      {% include post_left.html %}
+    {% else %}
+      {% include post_right.html %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 </section>

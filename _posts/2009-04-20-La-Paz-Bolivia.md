@@ -2,7 +2,7 @@
 layout: default
 img: DSC_0524.JPG
 caption: Caption
-category: Services
+category: good engineering
 title: La Paz, Bolivia
 date: 04/2009
 ---

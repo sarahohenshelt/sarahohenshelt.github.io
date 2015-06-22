@@ -1,0 +1,27 @@
+<div class="content-section-a">
+<div class="container">
+<div class = "row">    
+  <div class="col-12">
+    <hr class="section-heading-spacer">
+    <div class="clearfix"></div>
+  </div>
+</div>
+<article class="row">
+    <div class="col-sm-8 floatright">
+      <h2 class="section-heading">{{ post.title }}</h2>        
+      <h3>{{ post.date | date: '%B %d, %Y' }}</h3>
+    </div>
+    <div class="col-sm-4">
+        <figure>
+            <a class="thumbnail" href="img/posts/{{ post.img }}">
+        <img src="img/posts/{{ post.img }}" alt="4x3 Image" class="img-responsive">
+                <figcaption>{{ post.caption }}</figcaption>
+            </a>
+        </figure>
+    </div>
+    <div class="col-sm-8 floatright lead">
+        <p>{{ post.content }}</p>
+    </div>
+</article>
+</div>
+</div>

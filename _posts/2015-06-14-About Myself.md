@@ -2,7 +2,7 @@
 layout: default
 img: DSC_0925.jpg
 caption: The Pyramids of Giza
-category: Good Engineering
+category: good engineering
 title: About Me
 date: 2015-06-14
 description: Here is a description
