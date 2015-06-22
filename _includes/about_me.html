@@ -1,7 +1,40 @@
 <section id="about">
-{% for post in site.posts %}
-  {% if post.category == 'about me' %}
-    {% include post_left.html %}
-  {% endif %}
-{% endfor %}
+	<div class="banner2">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<h1>About Me</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+  {% for post in site.posts %}
+    {% if post.category == 'about me' %}
+      <div class="content-section-a">
+        <div class="container">
+        <!--
+        <div class = "row">    
+          <div class="col-12">
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+          </div>
+        </div>
+        -->
+        <article class="row">
+            <div class="col-sm-4 floatright">
+                <figure>
+                    <a class="thumbnail" href="img/posts/{{ post.img }}">
+                <img src="img/posts/{{ post.img }}" alt="4x3 Image" class="img-responsive">
+                        <figcaption>{{ post.caption }}</figcaption>
+                    </a>
+                </figure>
+            </div>
+            <div class="col-sm-8 lead">
+                <p>{{ post.content }}</p>
+            </div>
+        </article>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
 </section>
