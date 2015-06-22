@@ -116,13 +116,31 @@ h6 {
     background-size: cover;
 }
 
+.banner2 {
+    padding: 25px 0;
+    color: #f8f8f8;
+    background: url(../img/posts/IMG_2026.JPG) no-repeat center center;
+    background-size: cover;
+    
+}
+
 .banner h2 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 3em;
 }
 
+.banner2 h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
 .banner ul {
+    margin-bottom: 0;
+}
+
+.banner2 ul {
     margin-bottom: 0;
 }
 
@@ -140,6 +158,11 @@ h6 {
 
 @media(max-width:767px) {
     .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+    .banner2 h2 {
         margin: 0;
         text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
         font-size: 3em;

@@ -1,15 +1,19 @@
 <div class="content-section-a">
 <div class="container">
+<!--
 <div class = "row">    
   <div class="col-12">
     <hr class="section-heading-spacer">
     <div class="clearfix"></div>
   </div>
 </div>
+-->
 <article class="row">
     <div class="col-sm-8">
       <h2 class="section-heading">{{ post.title }}</h2>        
+      {% if post.layout == 'post' %}
       <h3>{{ post.date | date: '%B %d, %Y' }}</h3>
+      {% endif %}
     </div>
     <div class="col-sm-4 floatright">
         <figure>
