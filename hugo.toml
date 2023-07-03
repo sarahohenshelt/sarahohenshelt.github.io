@@ -2,6 +2,7 @@ baseurl = "https://travelingengineer.com"
 metaDataFormat = "yaml"
 title = "Traveling Engineer"
 theme = "blist"
+publishDir = "docs"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
