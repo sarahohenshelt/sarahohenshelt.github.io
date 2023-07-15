@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Sara Aukes"
       introSubtitle = "Structural engineer who enjoys traveling, family, and running."
-      introPhoto = "/picture.jpg"
+      introPhoto = "/images/nice/PXL_20230710_071912119.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
