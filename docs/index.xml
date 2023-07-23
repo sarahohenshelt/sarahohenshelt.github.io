@@ -8,30 +8,12 @@
     <language>en</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://travelingengineer.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cinque Terra</title>
-      <link>https://travelingengineer.com/blog/2023-07-12-cinqueterre/</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://travelingengineer.com/blog/2023-07-12-cinqueterre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genoa</title>
-      <link>https://travelingengineer.com/blog/2023-07-10-genoa/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://travelingengineer.com/blog/2023-07-10-genoa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Monaco</title>
       <link>https://travelingengineer.com/blog/2023-07-09-monaco/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://travelingengineer.com/blog/2023-07-09-monaco/</guid>
-      <description></description>
+      <description>This was a bit of a forced day. We had a big walking day the day before (around Nice) and were 2 days post trans-Atlantic flight, but it was really our only day to go to Monaco…and I was so curios to see it. We took a hot and crowded bus there and went straight to the central market for food. Kids found a playground and Dan and I were able to sit and drink a coffee in the plaza and be close enough to see the kids.</description>
     </item>
     
     <item>
@@ -40,7 +22,7 @@
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://travelingengineer.com/blog/2023-07-07-nice/</guid>
-      <description></description>
+      <description>True to myself, I woke up in a new city and I was ready to go explore! I have traveled with kids a lot and have created the rule of thumb…whatever you have planned, divide by 2. The ‘plan’ was to hike up to a fort with some views, walk to our cousin’s (Mark and Shayna) place, tram to their new place, swing by the market for street food, go to a water fountain, stroll the streets of old town and maybe a quick dip in the sea before dinner.</description>
     </item>
     
     <item>
@@ -54,14 +36,22 @@ July 2023: Nice, France – Monaco – Genoa, Italy – Calvi, Corsica (France) 
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://travelingengineer.com/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <title>To Europe and Beyond!!!</title>
+      <link>https://travelingengineer.com/blog/2023-07-06-travel-to-europe/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://travelingengineer.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmarkhttps://github.</description>
+      <guid>https://travelingengineer.com/blog/2023-07-06-travel-to-europe/</guid>
+      <description>We visited family before our jaunt across the pond. This meant we had an 8hr flight to Frankfurt, not a longer one from the West Coast. Pro: Less time on airplane. Con: Kids sleep great, but with dinner, there was no way to get anything more than 5hrs of sleep for them…1 for me.
+With a big of a delayed flight and customs, we didn’t have much time. Bathroom yes, coffee for Dan no.</description>
+    </item>
+    
+    <item>
+      <title>Packing</title>
+      <link>https://travelingengineer.com/blog/2023-07-01-packing/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://travelingengineer.com/blog/2023-07-01-packing/</guid>
+      <description>I consider myself a humble person when it comes to most things, but packing…I will brag about my skills all day long. 2 week trip to Europe for myself and 3 kids in 2 carry-ons? With cold weather clothes and marathon outfit? No problem. Backpacking trip for the 5 of us to all fit in Dan’s backpack? With snow gear? In my sleep. But packing for a year for the family and still being able to move about…I struggled with this.</description>
     </item>
     
     <item>
@@ -70,9 +60,7 @@ https://github.com/yuin/goldmarkhttps://github.</description>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://travelingengineer.com/page/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmarkhttps://github.</description>
+      <description>I&amp;rsquo;ll do this eventually :)</description>
     </item>
     
   </channel>

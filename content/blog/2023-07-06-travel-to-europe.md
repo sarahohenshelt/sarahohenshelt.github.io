@@ -1,7 +1,7 @@
 ---
 title: To Europe and Beyond!!!
 date: 2023-07-06
-description: "It's never a fun flight, but it's got to happen"
+description: "Same old story...kids sleep, parents don't"
 #tags: ["emoji"]
 thumbnail: /images/travel/flight-flight.jpg
 ---
