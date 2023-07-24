@@ -1,8 +1,10 @@
+title: Traveling Engineer
+baseurl: https://travelingengineer.com
+publishDir: docs
+theme: blist
+
 DefaultContentLanguage: en
 DefaultContentLanguageInSubdir: false
-baseurl: https://travelingengineer.com/
-build:
-  writeStats: true
 languages:
   en:
     contentDir: content
@@ -69,6 +71,6 @@ params:
   - link
   - author
   toc: true
-publishDir: docs
-theme: blist
-title: Traveling Engineer
+
+build:
+  writeStats: true
