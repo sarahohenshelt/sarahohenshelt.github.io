@@ -1,0 +1,74 @@
+DefaultContentLanguage: en
+DefaultContentLanguageInSubdir: false
+baseurl: https://travelingengineer.com
+build:
+  writeStats: true
+languages:
+  en:
+    contentDir: content
+    languageName: English
+    menu:
+      main:
+      - name: Blog
+        url: blog
+        weight: 1
+      - name: About
+        url: page/about/
+        weight: 2
+    params:
+      introPhoto: /images/travel/PXL_20230710_071912119.jpg
+      introSubtitle: A structural engineer and mom who loves to travel, read, eat
+        street food, and run.
+      introTitle: Hi, I'm Sara
+      logo: /blist-logo.png
+    weight: 1
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+menu:
+  main:
+  - name: About
+    url: /about
+metaDataFormat: yaml
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+params:
+  ascentColor: bg-blue-100
+  comments:
+    category: ''
+    categoryid: ''
+    emitmetadata: ''
+    inputposition: ''
+    mapping: ''
+    reactionsenabled: ''
+    repo: ''
+    repoid: ''
+    strict: ''
+    system: giscus
+    theme: ''
+  copyright: "Copyright \xA9 2023 - Sara Aukes \xB7 All rights reserved"
+  darkModeToggle: true
+  enableSearch: true
+  favicon: /favicon.svg
+  frontBundle: blog
+  hideMeta: false
+  hideOtherLanguages: false
+  hidePageThumbnail: false
+  searchKeys:
+  - tags
+  - date
+  - categories
+  - summary
+  - content
+  - link
+  - author
+  toc: true
+publishDir: docs
+theme: blist
+title: Traveling Engineer
