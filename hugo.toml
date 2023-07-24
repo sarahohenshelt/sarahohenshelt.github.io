@@ -5,7 +5,7 @@ theme = "blist"
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 [languages]
   [languages.en]
     contentDir = "content" #English
