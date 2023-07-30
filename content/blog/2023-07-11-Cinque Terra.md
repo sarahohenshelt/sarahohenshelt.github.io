@@ -1,7 +1,7 @@
 ---
 title: Cinque Terra
 date: 2023-07-11
-description: "..."
+description: "Meeting up with a high school bestie"
 #tags: ["emoji"]
 thumbnail: /images/travel/cinque-terra-beach-group-updated.jpg
 ---
