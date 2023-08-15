@@ -131,4 +131,8 @@ And would it really be a trip if I didn't comment on some odd engineering. The c
 
 ![Alt text](/images/travel/PXL_20230810_083246655.MP.jpg)
 
+Not the safest guardrail, but it did the trick as long as you didn't touch it.
+
+![Alt text](/images/travel/PXL_20230808_163213821.jpg)
+
 ---
