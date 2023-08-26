@@ -160,7 +160,9 @@ Ironically, we think it was the old courtyard for the prison that was there at o
 ![Alt text](/images/travel2/PXL_20230812_084550697.jpg)
 ![Alt text](/images/travel2/PXL_20230812_084522324.jpg)
 
-Ben and I hung back to check out the museum inside and Dan and the other kids headed out so Dan could get a coffee and the kids could run around a bit more. We found a great café for this the day before. You could only see them if they popped their heads out, but they are about 30m behind us down the path...making potions.
+Ben and I hung back to check out the museum inside and Dan and the other kids headed out so Dan could get a coffee and the kids could run around a bit more. We found a great café for this the day before. Dan said when they were walking there, Sam tripped pretty bad and an old lady came over and spit on the ground and started stopming on it and yelling. Sam couldn't resist laughing though the tears. Another example of how wonderful the people of Albania have been to our kids. 
+
+At the cafe, you could only see them if they popped their heads out, but they are about 30m behind us down the path...making potions.
 
 ![Alt text](./images/travel2/PXL_20230812_094211528.jpg)
 ![Alt text](/images/travel2/PXL_20230812_100439398.jpg)
