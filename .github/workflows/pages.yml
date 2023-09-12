@@ -36,7 +36,6 @@ jobs:
 
 
       - run: npm ci
-      - run: hugo --minify
                 
       - name: Build
         run: hugo --minify
