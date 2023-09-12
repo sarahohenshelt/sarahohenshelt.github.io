@@ -20,7 +20,7 @@ languages:
     params:
       introPhoto: /images/travel/PXL_20230710_071912119.jpg
       introSubtitle: A structural engineer and mom who loves to travel, read, eat
-        street food, and run
+        street food, and run.
       introTitle: Hi, I'm Sara
       logo: /blist-logo.png
     weight: 1
