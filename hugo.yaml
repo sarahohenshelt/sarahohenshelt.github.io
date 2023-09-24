@@ -1,6 +1,6 @@
 title: Traveling Engineer
 baseurl: https://travelingengineer.com
-publishDir: docs
+# publishDir: docs
 theme: blist
 
 DefaultContentLanguage: en
