@@ -1,7 +1,7 @@
 ---
 title: Veliko Tarnovo
 date: 2023-08-28
-description: ""
+description: "A Castle, A Communist Lair, A Beautiful Setting"
 #tags: ["emoji"]
 thumbnail: /images/travel2/PXL_20230830_071327383.jpg
 
