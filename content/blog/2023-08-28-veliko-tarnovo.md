@@ -149,5 +149,5 @@ We winded a bit and finally got our first view of the Black Sea. Directions took
 
 We finally checked into our rooms.
 
-Continued on https://travelingengineer.com/blog/2023-08-30-byala/
+Continued on https://travelingengineer.com/blog/2023-08-29-byala/
 ---
