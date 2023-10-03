@@ -51,7 +51,7 @@ We packed up the last of the clothes and misc items, tried to book the Istanbul 
 
 We had 28 lev, which I assumed was plenty as the train station was in town and about 1/3 the distance that the 22 lev airport taxi has cost. And worst case, we just get out when we have hit 25 lev and walk the rest of the way, right? Serious miscalculation on my part as the traffic was terrible and at 25 lev we would have still been too far for comfort to walk. Dan asked the guy if he took euros and thankfully, he did. Once again, we would have to raid Ben’s wallet and pay him back later.
 
-![Alt text](//images/travel3/PXL_20230905_143516250.jpg)
+![Alt text](/images/travel3/PXL_20230905_143516250.jpg)
 
 All was well and we got there with plenty of time; so much time that our platform wasn’t announced yet. We ate left overs from the amazing Turkish dinner we had the night before, spent our lev in the market on pencils, gum, candy and extra water for the train…thinking there might not be any options once we boarded.
 
@@ -83,7 +83,7 @@ Dan and I couldn’t sleep as we knew we’d be woken up so soon and it was more
 
 ![Alt text](/images/travel3/PXL_20230905_221411791.jpg)
 
-Yes, I was looking at my watch, very covertly of course! We had email conformations, screen shotted them and were ready to go. As we pulled into the border crossing to enter Turkey, we were nervous, but ready to go. I had heard that you want to get off quickly as the line gets long and I really didn’t want the kids awake any more than necessary. Joke was on me. We convince the kids to get up, place cookies at the top of my purse, grab EVERYTHING and hop off the train as we pulled in. There were a few people before us and we followed them to a very inconspicuous building where we got in line. 
+Yes, I was looking at my watch, very covertly of course! We had email confermations, screen shotted them and were ready to go. As we pulled into the border crossing to enter Turkey, we were nervous, but ready to go. I had heard that you want to get off quickly as the line gets long and I really didn’t want the kids awake any more than necessary. Joke was on me. We convince the kids to get up, place cookies at the top of my purse, grab EVERYTHING and hop off the train as we pulled in. There were a few people before us and we followed them to a very inconspicuous building where we got in line. 
 
 ![Alt text](/images/travel3/PXL_20230905_224928211.MP.jpg)
 
