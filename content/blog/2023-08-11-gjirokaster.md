@@ -211,5 +211,6 @@ out for dinner in the bazaar, some meandering, a flute purchase for Sammy and ba
 
 I wasn’t able to book the family room for 3 nights, so we moved to a triple and a double. It was a level above, so I hoped the music would be better. It wasn’t, but the power went out at 9:30pm so that was kinda great for my sleep. 
 
+Contunued on https://travelingengineer.com/blog/2023-08-11-gjirokaster/
 
 ---
