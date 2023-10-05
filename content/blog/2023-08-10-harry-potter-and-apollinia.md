@@ -70,7 +70,7 @@ Finally, we can see just where we are going with the castle up on the hill. We p
 
 Where he told me was full, so I found a place to sit and wait for Dan to get me info from where we were staying. 10 minutes later Dan calls from a random number and then sends me a location where to park. I pull up, the owner backs his car out, I pull in and then he drive us back to where we had unloaded. We then walk half a block to find our kids with his wife eating chocolate she gave them and Sammy hugging her. Off to a good start…minus Dan and me yelling at each other in the car. He apologized. :)  
 
-Continued on Gjirokaster page
+Contunued on https://travelingengineer.com/blog/2023-08-11-gjirokaster/
 
 
 ---
