@@ -6,11 +6,11 @@ description: "I could stay here for a long time"
 thumbnail: /images/travel3/PXL_20230916_094506817.jpg
 ---
 
-We lasted a total of 10 days before we needed to get out exploring a bit. Not having figured out the buses or subway yet, we caught a cab to the center of Ankara. Also being only $9USD, we might take a while to figure it out. :) If felt good being in the heart of the city and taking in all the sights, smells, etc. It took a bit to find the castle entrance from where we were dropped off, but we finally figured out we neede to just walk straight up the huge flight of stairs. It is a castle after all. 
+We lasted a total of 10 days before we needed to get out exploring a bit. Not having figured out the buses or subway yet, we caught a cab to the center of Ankara. Also being only $9USD, we might take a while to figure it out. :) If felt good being in the heart of the city and taking in all the sights, smells, etc. It took a bit to find the castle entrance from where we were dropped off, but we finally figured out we needed to just walk straight up the huge flight of stairs. It is a castle after all. 
 
 ![Alt text](/images/travel3/PXL_20230916_075045923.jpg)
 
-Walking throug the old town to get to the entrance within the entrance, found wandered past some exposed walls of old buildgins that seemed to use some of the same contruction techiques we say in North Macedonia and Bulgaria. Wood intertwined with brick. I really need to understand this better...as it's something we wouldn't do today, but they have proven to be able withstand years and years of life.
+Walking through the old town to get to the entrance within the entrance, found wandered past some exposed walls of old buildings that seemed to use some of the same construction techniques we say in North Macedonia and Bulgaria. Wood intertwined with brick. I really need to understand this better...as it's something we wouldn't do today, but they have proven to be able withstand years and years of life.
 
 ![Alt text](/images/travel3/PXL_20230916_080438068.jpg)
 
@@ -60,7 +60,7 @@ We found a park, sat on a wall, ate figs, found a cab and headed home.
 
 The next week we continued with our newly adapted loose routine. We do some school in the morning, usually writing, head out to run around or go to the family center and then do math and reading in the afternoon. There is a part of me that wants the kids to still do worksheets here and there because they will have to do them next year in school, but the other part of me (and Dan) wants to teach with what is around us. I agree this is better and what we had done all summer, especially since when else will you get to go see the walls of Constantinople after reading about them, but I worry about Sam being able to focus in school next year. Well, we’ll worry about that later, I guess. Seriously, that kid’s butt can not stay in a chair!
 
-So as a family, we are loving learning about the area we are in. Essays on Mesopotamia, a newly found interest to go to Paris to see Hammurabi’s code (what? There’s more to see there than the Eifel Tower?), learning countries names and capitals, documenting all the cats on campus, learning about the Mongols, the ancient silk road, the world’s first tablets…hint: not apple brand. Sam and Ben have field journals they bring with them where they can jot down notes or sketch something they see. Some days it’s not in the cards with Ben where he just wants to look around, but Sam loves that journal! And I’m learning a ton!
+So as a family, we are loving learning about the area we are in. Essays on Mesopotamia, a newly found interest to go to Paris to see Hammurabi’s code (what? There’s more to see there than the Eiffel Tower?), learning countries names and capitals, documenting all the cats on campus, learning about the Mongols, the ancient silk road, the world’s first tablets…hint: not apple brand. Sam and Ben have field journals they bring with them where they can jot down notes or sketch something they see. Some days it’s not in the cards with Ben where he just wants to look around, but Sam loves that journal! And I’m learning a ton!
 
 ![Alt text](/images/travel3/PXL_20231025_171038944.jpg)
 
@@ -106,5 +106,3 @@ And all of us are still loving the food…all of it!
 
 ![Alt text](/images/travel3/PXL_20230924_075413156.jpg)
 ![Alt text](/images/travel3/PXL_20230926_135648787.jpg)
-
----

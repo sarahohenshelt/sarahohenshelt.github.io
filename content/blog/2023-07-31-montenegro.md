@@ -93,7 +93,7 @@ and then found a small ‘beach’ so the kids could swim and we could cool off.
 
 It had already been a day, so we found a grocery store to get stuff for dinner and breakfasts and Dan ran in. The kids and I looked for and recorded a decent amount of new license plates.
 
-Back up the serpentine, not fun, but flew by quicker than the way down. Once we were close to the top, I pulled over so I could get a real look. There happened to be a stall selling stuff and I coudln't not by the fruit wine...Herb Hertlinger would have been so dissapointed. It was kinda good.
+Back up the serpentine, not fun, but flew by quicker than the way down. Once we were close to the top, I pulled over so I could get a real look. There happened to be a stall selling stuff and I couldn't not by the fruit wine...Herb Hertlinger would have been so disappointed. It was kinda good.
 
 ![Alt text](/images/travel/PXL_20230801_185018054.jpg)
 
@@ -180,7 +180,7 @@ The finished product and probably the only time it will be brushed in 3 months.
 
 ![Alt text](/images/travel/PXL_20230804_103314326.jpg)
  
-With a lot accomplished before 3pm, we decided to check out the Adventure Park where the kids got to climb and zipline through the trees. They of course loved it and even though Max wasn’t old enough, we was entertained enough running below them. 
+With a lot accomplished before 3pm, we decided to check out the Adventure Park where the kids got to climb and zip-line through the trees. They of course loved it and even though Max wasn’t old enough, we was entertained enough running below them. 
 
 ![Alt text](/images/travel/PXL_20230804_130101047.MP.jpg)
 
@@ -202,6 +202,4 @@ We didn’t stay long…a short trip through the mausoleum, a gelato to share an
 
 It was painful for the kids to finally be told to come in to bed, as they had fallen in love with the area and the freedom they had to roam free.
 
-I keep saying ‘magical’, but really that is the best way to describe it. Our Airbnb was so perfect for us, the hosts were on the floor above and she was always waving hi and giving the kids treats. Sam was hugging her by the end. 
-
----
+I keep saying ‘magical’, but really that is the best way to describe it. Our Airbnb was so perfect for us, the hosts were on the floor above and she was always waving hi and giving the kids treats. Sam was hugging her by the end.

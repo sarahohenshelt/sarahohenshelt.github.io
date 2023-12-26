@@ -1,14 +1,14 @@
 ---
 title: Belgrade, Part 1
 date: 2023-11-17
-description: "No expections"
+description: "No expectations"
 #tags: ["emoji"]
 thumbnail: /images/travel4/PXL_20231118_095551206.jpg
-
 ---
+
 Due to our lack of extended visas, the kids and I were going to extend our ‘leave Turkey by date’ with a few days added onto our 5 day planned Italy trip. So why did I pick Belgrade? Well, it started with a search of direct flights from Ankara, that were outside Turkey and were geographically located between Turkey and Rome (where we were headed to next). Then I narrowed it down to places I hadn’t been before and that had direct flights to Rome. With all those parameters entered into the Sara Mental Travel Computer (SMTC) we landed (pun intended) on Belgrade.
 
-There were mixed emotions going into this trip. The prior week was super busy with work, so I didn't have a free moment to do any research. The most I had done was before even booking the plan tickets, which consisted of 'things to do in Belgrade with kids'. The google search gave some blogs and I felt like it would work for 4 days. For me, part of the fun of the trip is the research. I really do love it and can do it for hours at night...which is what I did for months before our big trip started. I hated the feeling of going to a new city and not having even the vaguest of plans. And the thought of 'what if I don't research it well and we miss something?!' That has gone away a bit with kids and there are just things we'll miss because of tired legs or hungry tummies. I do pride myself on my abiilty to research and plan, but it just wasn't in the cards for this trip. Worst case we'll see the rivers, some old buildings, eat some good food and play at parks. The trip surpassed all that, even though expectations were low. And it didn't help that I had been averaging 6hrs of sleep a night for the last 5 days. But here goes...Belgrade!
+There were mixed emotions going into this trip. The prior week was super busy with work, so I didn't have a free moment to do any research. The most I had done was before even booking the plan tickets, which consisted of 'things to do in Belgrade with kids'. The google search gave some blogs and I felt like it would work for 4 days. For me, part of the fun of the trip is the research. I really do love it and can do it for hours at night...which is what I did for months before our big trip started. I hated the feeling of going to a new city and not having even the vaguest of plans. And the thought of 'what if I don't research it well and we miss something?!' That has gone away a bit with kids and there are just things we'll miss because of tired legs or hungry tummies. I do pride myself on my ability to research and plan, but it just wasn't in the cards for this trip. Worst case we'll see the rivers, some old buildings, eat some good food and play at parks. The trip surpassed all that, even though expectations were low. And it didn't help that I had been averaging 6hrs of sleep a night for the last 5 days. But here goes...Belgrade!
 
 The Air Serbia website did not accept my credit card to add a bag and being a 10-day trip, with access to a washing machine in each place, we decided to backpack it. Minimal clothes, but we had a washing machine each place we were staying.
 
@@ -71,7 +71,7 @@ We wandered for a bit and by then felt one of the restaurants Dan had recommende
 
 Each meal came with either tea or yogurt. Seemed a bit odd as the 2 options, but we went with 2 of each and got all served in mugs. 
 
-While waiting for the food, somehow the talk turned to what would be the worst drink to have come out your nose because you laughed too hard. Not my preferred breakfast topic, but it made the time quite plesent with minimal 'stay seated!' and we got lots of laughs.
+While waiting for the food, somehow the talk turned to what would be the worst drink to have come out your nose because you laughed too hard. Not my preferred breakfast topic, but it made the time quite pleasant with minimal 'stay seated!' and we got lots of laughs.
 
 Food was great, although it was more fried toast than what we think of as French Toast, but they ate it just the same. A highlight was a packet of honey that came with the tea, not a cylinder or cube of sugar. And the yogurt was served in the same type of mug as the tea. Super sour good yogurt. Sam took this to mean 'drink the yogurt'. It didn't work out so well...or it worked out just as he planned? He almost drank/ate almost the whole thing and the rest was used to dip their French Toast in. Maybe this is why we talked about beverages coming out your nose?
 
@@ -83,7 +83,7 @@ A little chatting with the waitress, and we headed out into the blistering cold 
 
 We kept walking and stumbled upon Knez Mihailova Street, a wide pedestrian street with lots of shops. Pedestrian streets…aka no cars and less yelling at kids to watch out for cars…are always a huge reprieve in cities. Kids were still on a search for money, we found one more, and I was able to keep them pretty corralled so I could enjoy the slow walk and look at the buildings.
 
-We had to hang a left to veer towards the river. Well really, we had one river to the north and one to the west, but turning left felt right. :) We saw the top of an overly ornate church top and decided to check in out. The inside was a bit stramge, in a different kind of church we’ve seen way. Maybe the fact that it was newer (in European age) and the paintings were very vivid. Not very big, no side naves to see, so we didn’t stay long, but enough to take the kids' new favorite type of photo.
+We had to hang a left to veer towards the river. Well really, we had one river to the north and one to the west, but turning left felt right. :) We saw the top of an overly ornate church top and decided to check in out. The inside was a bit strange, in a different kind of church we’ve seen way. Maybe the fact that it was newer (in European age) and the paintings were very vivid. Not very big, no side naves to see, so we didn’t stay long, but enough to take the kids' new favorite type of photo.
 
 ![Alt text](/images/travel4/PXL_20231118_091058370.jpg)
 
@@ -124,7 +124,7 @@ Through the castle and we were dumped out right at yet another playground. A lit
 
 ![Alt text](/images/travel4/PXL_20231118_100935120.jpg)
 
-We had hit our walking limit (16k steps already and that's my steps) so we opted for a cab home for some down time. We had just been snacking all day and we needed some substance, so we grabbed sandwiches from across the street and some mini rolly things with chocolate on the inside. For some reason, the kids were devestated I said no to the giant croissantd fully immersed in choclate.
+We had hit our walking limit (16k steps already and that's my steps) so we opted for a cab home for some down time. We had just been snacking all day and we needed some substance, so we grabbed sandwiches from across the street and some mini rolly things with chocolate on the inside. For some reason, the kids were devastated I said no to the giant croissant fully immersed in chocolate.
 
 ![Alt text](/images/travel4/PXL_20231118_110118089.jpg)
 
@@ -133,7 +133,7 @@ Sandwiches were delicious and the rolly things were a hit too.
 ![Alt text](/images/travel4/PXL_20231118_112012507.jpg)
 ![Alt text](/images/travel4/PXL_20231118_112006721.jpg)
 
-After lunch, Max reluctantly layed down with me, even though he was NOT tired. He crashed hard within 5 minutes and the rest of us read, did some school and built a fort. Ben and Sam got it in their minds that they wanted to play real restaurant. Something they have NEVER done before. It was a bit frustrating for all parties as we had zero food in the house, minus tea and plane snacks. I ordered a hamburgerr, fries and a chai.
+After lunch, Max reluctantly layed down with me, even though he was NOT tired. He crashed hard within 5 minutes and the rest of us read, did some school and built a fort. Ben and Sam got it in their minds that they wanted to play real restaurant. Something they have NEVER done before. It was a bit frustrating for all parties as we had zero food in the house, minus tea and plane snacks. I ordered a hamburger, fries and a chai.
 
 ![Alt text](/images/travel4/PXL_20231118_145622402.jpg)
 
@@ -148,6 +148,3 @@ Max slept until almost 5pm, yet claimed he 'couldn't fall asleep' as he walked o
 Kids worked on their restaurant menu for the next night, but that didn’t last long for Max and Sam as they just couldn’t sit still. It started out nice, but ended up being not super fun with, most likely, 2 of the 3 kids tired and somehow lost their appetite right before dinner was served. We packed up over half of what we ordered and headed home…luckily about a 4-minute walk.
 
 Sam’s turn for sharing my bed and I didn’t stay up much later than he did.
-
-
----

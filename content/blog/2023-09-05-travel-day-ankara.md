@@ -4,8 +4,8 @@ date: 2023-09-05
 description: "Ankara, here we come!!!"
 #tags: ["emoji"]
 thumbnail: /images/travel3/PXL_20230905_151843327.jpg
-
 ---
+
 When starting to plan this trip, I had the romantic idea of getting from Nice, France to Ankara, Turkey without stepping foot on an airplane. A combination of buses, ferries, trains and rental cars would be much more fun and adventurous, right? To be 100% honest, I don’t regret any of it…except maybe the final push from Sofia, Bulgaria? (Just kidding, I wouldn't change a second of any of it!) But we had come this far, we couldn’t quit now. AND I think our whole family really does love fun #2. Maybe not Max, but hopefully he’ll grow into it
 
 For our final night/day in Sofia, we booked an Airbnb in town for 2 nights. We didn’t want to have to deal with our luggage all day until our 7pm train and we also wanted a place to be for part of the day as we were a bit tuckered out for our Bulgaria travels. Zero rush of a morning as our only plans were to see St Sofia Church and the catacombs below and Netzy (the building you usually see whenever you google ‘Sofia, Bulgaria’). I was able to get work and some packing done in the morning. Packing now involved a bit more since we had the duffle and things seemed to kinda be all over the place after we emptied the car and dumped it in the place. But even with the duffle, we still just didn’t have that much stuff, so it was not a daunting task…and I love packing. Left overs for lunch and then we headed out. It felt good to be out and for the first time on the entire trip (not counting being drenched or staying in the mountains) it felt like maybe, just maybe fall was coming. 
@@ -24,7 +24,7 @@ It went up forever and was just crazy cool. How did they build this?!? I’m not
 
 ![Alt text](/images/travel3/PXL_20230905_112302950.jpg)
 
-We felt we took it in as much as we could in limited time…or in 3yo time…and we headed just across the way to the Saint Sofia Church. The oldest church in Sofia, but the reason we wanted to go was to see the catacombs below that Dan had read about. Can you tell when the change in contruction materials occured?
+We felt we took it in as much as we could in limited time…or in 3yo time…and we headed just across the way to the Saint Sofia Church. The oldest church in Sofia, but the reason we wanted to go was to see the catacombs below that Dan had read about. Can you tell when the change in construction materials occurred?
 
 ![Alt text](/images/travel3/PXL_20230905_112928825.jpg)
 
@@ -33,7 +33,7 @@ They were pretty impressive, even more impressive knowing there was a full churc
 ![Alt text](/images/travel3/PXL_20230905_113055268.jpg)
 ![Alt text](/images/travel3/PXL_20230905_113402764.jpg)
 
-Even though I only got to experience 1 level as Max has a poop emergency, it seemd to go on forever. And even just the one level below was fascinating knowing what was above us. Although, I couldn't help but think this would be a TERRIBLE place to be in an earthquake.
+Even though I only got to experience 1 level as Max has a poop emergency, it seemed to go on forever. And even just the one level below was fascinating knowing what was above us. Although, I couldn't help but think this would be a TERRIBLE place to be in an earthquake.
 
 ![Alt text](/images/travel3/PXL_20230905_113611676.jpg)
 
@@ -61,7 +61,7 @@ Excitement rose as we saw our platform show up and conveniently, it was the one 
 
 ![Alt text](/images/travel3/PXL_20230905_152354337.jpg)
 
-We kept walking down, trying to find our car. Not feeling optimistic, I asked some locals if they spoke English and if they could help. A girl looked at my ticket and very quick said ‘oh, you are going to Turkey…it’s one of the first 3 cars.’ Clearly she knew something I didn’t. A few bad Bulgarian ‘thankyous’ and I signaled to Dan that I thought I knew where we had to be. I wanted to be 100% confident as I didn’t want to lug luggage up and down, nor through 2 wrong cars; we did have the extra duffle now.
+We kept walking down, trying to find our car. Not feeling optimistic, I asked some locals if they spoke English and if they could help. A girl looked at my ticket and very quick said ‘oh, you are going to Turkey…it’s one of the first 3 cars.’ Clearly she knew something I didn’t. A few bad Bulgarian ‘thank-yous’ and I signaled to Dan that I thought I knew where we had to be. I wanted to be 100% confident as I didn’t want to lug luggage up and down, nor through 2 wrong cars; we did have the extra duffle now.
 
 ![Alt text](/images/travel3/PXL_20230905_151843327.jpg)
 
@@ -83,11 +83,11 @@ Dan and I couldn’t sleep as we knew we’d be woken up so soon and it was more
 
 ![Alt text](/images/travel3/PXL_20230905_221411791.jpg)
 
-Yes, I was looking at my watch, very covertly of course! We had email confermations, screen shotted them and were ready to go. As we pulled into the border crossing to enter Turkey, we were nervous, but ready to go. I had heard that you want to get off quickly as the line gets long and I really didn’t want the kids awake any more than necessary. Joke was on me. We convince the kids to get up, place cookies at the top of my purse, grab EVERYTHING and hop off the train as we pulled in. There were a few people before us and we followed them to a very inconspicuous building where we got in line. 
+Yes, I was looking at my watch, very covertly of course! We had email confirmations, screen shotted them and were ready to go. As we pulled into the border crossing to enter Turkey, we were nervous, but ready to go. I had heard that you want to get off quickly as the line gets long and I really didn’t want the kids awake any more than necessary. Joke was on me. We convince the kids to get up, place cookies at the top of my purse, grab EVERYTHING and hop off the train as we pulled in. There were a few people before us and we followed them to a very inconspicuous building where we got in line. 
 
 ![Alt text](/images/travel3/PXL_20230905_224928211.MP.jpg)
 
-There were 2 lines and it was moving fast…that was until we got there. Listening to people talk and watching people fly through the line, it’s possible we were the only Bulgarian or Turkish people...or only poeple causing any sort of issue. When we got up the guy was really struggling with our situation and calling the other guy over and making a phone call didn’t seem to help. I stopped counting at 30 people that had made it through the other line while we were still standing there. I was slowly passing out cookies and trying to convince kids to stand or sit quietly. They had woken up and were crazy at this point. Maybe the cookies were a bad idea? I’m not sure if the guy gave up on us, or really made it through all 5, but he gave us our passports back and said something that we took as ‘good enough. Now go.’
+There were 2 lines and it was moving fast…that was until we got there. Listening to people talk and watching people fly through the line, it’s possible we were the only Bulgarian or Turkish people...or only people causing any sort of issue. When we got up the guy was really struggling with our situation and calling the other guy over and making a phone call didn’t seem to help. I stopped counting at 30 people that had made it through the other line while we were still standing there. I was slowly passing out cookies and trying to convince kids to stand or sit quietly. They had woken up and were crazy at this point. Maybe the cookies were a bad idea? I’m not sure if the guy gave up on us, or really made it through all 5, but he gave us our passports back and said something that we took as ‘good enough. Now go.’
 
 We went outside and found a bench as we weren’t allowed back on the train while it was being checked. We sat for maybe 30 minutes while the kids ran around trying to pet cats. 
 
@@ -103,7 +103,7 @@ Good thing he is so cute...especially when he's sleeping and not being a you kno
 
 ![Alt text](/images/travel3/PXL_20230906_050227051.jpg)
 
-I rolled over and saw Dan reading in bed. He told me that all the trains from Istanbul to Ankara are now sold out (except the super late one), so our plan to buy them in person was going to fail. What to do? We could stay a night in Istanbul and go the next day, but this would have been mentally hard. We were so close. I did a quick search and a one-way car would be $150 to rent and we could get there that day. We decided that was a great plan. Ha, little did we know. We rented one that was about a 10 minute drive from the train station instead of going to the airport, because that seems like a really good idea. Kids start stirring and woke up one by one starting at about 7am. Too much energy, but we were all excited to be in Tureky.
+I rolled over and saw Dan reading in bed. He told me that all the trains from Istanbul to Ankara are now sold out (except the super late one), so our plan to buy them in person was going to fail. What to do? We could stay a night in Istanbul and go the next day, but this would have been mentally hard. We were so close. I did a quick search and a one-way car would be $150 to rent and we could get there that day. We decided that was a great plan. Ha, little did we know. We rented one that was about a 10 minute drive from the train station instead of going to the airport, because that seems like a really good idea. Kids start stirring and woke up one by one starting at about 7am. Too much energy, but we were all excited to be in Turkey.
 
 ![Alt text](/images/travel3/PXL_20230906_045824931.jpg)
 ![Alt text](/images/travel3/PXL_20230906_053006636.jpg)
@@ -123,5 +123,3 @@ We get to the gate at the university and just minor confusion on getting on camp
 ![Alt text](/images/travel3/PXL_20230906_131224855.MP.jpg)
 
 So much running around and craziness, but they deserved it after the last 24hrs. Dan and Onur come back about the same time Onur’s wife, Gizedeh, and their daughter, Deniz show up. We get back in the car to follow them to our place. We get there and such a feeling of relief as we walked in. The place was perfect for us and knowing I could unpack and chuck my suitcase way in the back of the closet was just too much excitement for me. We had traveled so much, but were ready for a short-term home for a bit. Dumped our stuff and headed back out for some much-needed food with Onur and family. Quick stop at the market on campus so we’d have food in the morning and then we were on our way. Really nice feeling to sit down at a restaurant and just have food start appearing (thanks to our friends’ ordering for us). We were introduced to lamacun and it was love at first bite for all 5 of us. A baked flatbread with some minimal toppings, maybe cheese (kids have nicknamed it Turkish pizza, but it’s so thin and it’s not really about the baked toppings), but the best part is the parsley, tomatoes, cucumbers, lettuce, lemon, yogurt and a red sauce you put on top and roll up. The restaurant had a back area for kids to play and as soon as they finished eating, they were jumping up to play with Deniz. We were served tea, tradition in Turkey to have after a meal, and as we were finishing the little glass cup, another arrived. It seemed to keep happening and Onur joked that it’s almost a game as to who can finish the tea or deliver more first. Dan drank 4 glasses. It was SO time for rest, and we knew we’d see SO much more of our friends, so we wrapped it up and headed home to get sleep. 
-
----

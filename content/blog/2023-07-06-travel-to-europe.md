@@ -27,5 +27,3 @@ So tempted to crash, but we rallied and walked 30min to the port. Max tripped an
 ![Alt text](/images/travel/flight-bus.jpg)
 
 We all crashed hard by 7:30pm and Max set the record for sleeping 14hrs! 
-
-

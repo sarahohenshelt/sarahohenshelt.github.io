@@ -29,8 +29,3 @@ Dan wants to walk the 19 min (says google) to our Airbnb and I’m all for a tax
 It was a long day, especially  due to the heat and I was all for foccaia take away and back to the place. It was 5:30pm. Dan wanted to go out to dinner, but I could read the kids. Although Ben really wanted to start exploring. Solution...Ben and Dan went out to dinner and the other 2 kids and I got focaccia to go and chilled at the apartment.
 
 Once again, kids crashed hard!
-
-
-
-
----

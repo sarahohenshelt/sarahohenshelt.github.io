@@ -4,8 +4,8 @@ date: 2023-08-11
 description: "A fairy tale town, castle included"
 #tags: ["emoji"]
 thumbnail: /images/travel2/PXL_20230811_104231486.MP.jpg
-
 ---
+
 Our place was amazing! Right in the heart of it all, in an old renovated building with a large terrace out back and the sweetest couple that owned/ran it. 
 
 ![Alt text](/images/travel2/PXL_20230813_073913388.jpg)
@@ -41,11 +41,11 @@ This included the melon we bought but didn’t start yet. We all love melon, but
 
 ![Alt text](/images/travel2/PXL_20230811_104414681.jpg)
 
-Everywhere you looked were the coolest slate roofs. Real slate roofs so perfeclty stacked up. They looked so perfeclty aligned!
+Everywhere you looked were the coolest slate roofs. Real slate roofs so perfectly stacked up. They looked so perfectly aligned!
 
 ![Alt text](/images/travel2/PXL_20230811_112551292.jpg)
 
-Dan did research on what we could do in the area and with the sun in full position, he decided to do the Cold War Tunnel tour. Everytime we left our place we had to walk through the basaar to get anywhere. It was a very upbeat vibe, but no so crazy that the kids couldn't explore a bit ahead. And for some reason this day they were extra fond of each other.
+Dan did research on what we could do in the area and with the sun in full position, he decided to do the Cold War Tunnel tour. Every time we left our place we had to walk through the bazaar to get anywhere. It was a very upbeat vibe, but no so crazy that the kids couldn't explore a bit ahead. And for some reason this day they were extra fond of each other.
 
 ![Alt text](/images/travel2/PXL_20230811_122845760.MP.jpg)
 
@@ -73,7 +73,7 @@ They really need to protect the rebar from water infiltration a bit better. Spal
 
 ![Alt text](/images/travel2/PXL_20230811_132936595.jpg)
 
-There were so many questions from Ben as he caught most of what the guide said, that we had to explain the cold war and communism to him. I struggle a lot about what to tell kids and when about things like this. We discussed the Berlin Wall and why is was there for so long before we went to Berlin, but I always worry how they will interpretate if their minds will dwell on the depression of it all too much. We went ahead full throttle as we snacked on some fruits we bought and the biggest apricot we had ever seen.
+There were so many questions from Ben as he caught most of what the guide said, that we had to explain the cold war and communism to him. I struggle a lot about what to tell kids and when about things like this. We discussed the Berlin Wall and why is was there for so long before we went to Berlin, but I always worry how they will interpret if their minds will dwell on the depression of it all too much. We went ahead full throttle as we snacked on some fruits we bought and the biggest apricot we had ever seen.
 
 ![Alt text](/images/travel2/PXL_20230811_140440604.jpg)
 
@@ -91,11 +91,11 @@ It had felt like a day without enough activity, so we decided to check out an ol
 ![Alt text](/images/travel2/PXL_20230811_153816572.jpg)
 ![Alt text](/images/travel2/PXL_20230811_154147068.jpg)
 
-You can see the aquaduct in the middle/bottom here.
+You can see the aqueduct in the middle/bottom here.
 
 ![Alt text](/images/travel2/PXL_20230811_155622219.jpg)
 
-It looked like an old bridge (so I loved it of course) across a small canyon…maybe 40-50ft from the bridge to the bottom; either way too far for a fall. It was only about 6ft wide, but heights don’t bother me, and I guess the kids not either, so we walked across. Okay, maybe 6ft is a bit of an overexaggeration.
+It looked like an old bridge (so I loved it of course) across a small canyon…maybe 40-50ft from the bridge to the bottom; either way too far for a fall. It was only about 6ft wide, but heights don’t bother me, and I guess the kids not either, so we walked across. Okay, maybe 6ft is a bit of an over-exaggeration.
 
 ![Alt text](/images/travel2/PXL_20230811_161218220.jpg)
 
@@ -146,7 +146,7 @@ The views outside were great, the castle walls were beautiful and lots of areas 
 ![Alt text](/images/travel2/PXL_20230812_081632799.jpg)
 ![Alt text](/images/travel2/PXL_20230812_082104404.jpg)
 
-Making our way back through the castle and stopped to take more pictures. So many rooms, arches, corridoors (although you couldn't explore as much down areas here as they were roped off more than other places) 
+Making our way back through the castle and stopped to take more pictures. So many rooms, arches, corridors (although you couldn't explore as much down areas here as they were roped off more than other places) 
 
 ![Alt text](/images/travel2/PXL_20230812_083048495.NIGHT.jpg)
 
@@ -155,12 +155,12 @@ After enough ‘don’t climb that, be quiet, watch out for those people’ we f
 
 ![Alt text](/images/travel2/PXL_20230812_084259483.jpg)
 
-Ironically, we think it was the old courtyard for the prison that was there at one point. It was a large space, and being on top of the castle, they had a really cool layout for draining the water. The upper level was sloped to the middle with the drainage paths build into the concrete, sloping to the middle. Then from the middle another drainage 'canal' let's call it, to take the water from that low point through the level below and off the builing. I think my architect friends would find it very clever.
+Ironically, we think it was the old courtyard for the prison that was there at one point. It was a large space, and being on top of the castle, they had a really cool layout for draining the water. The upper level was sloped to the middle with the drainage paths build into the concrete, sloping to the middle. Then from the middle another drainage 'canal' let's call it, to take the water from that low point through the level below and off the building. I think my architect friends would find it very clever.
 
 ![Alt text](/images/travel2/PXL_20230812_084550697.jpg)
 ![Alt text](/images/travel2/PXL_20230812_084522324.jpg)
 
-Ben and I hung back to check out the museum inside and Dan and the other kids headed out so Dan could get a coffee and the kids could run around a bit more. We found a great café for this the day before. Dan said when they were walking there, Sam tripped pretty bad and an old lady came over and spit on the ground and started stopming on it and yelling. Sam couldn't resist laughing though the tears. Another example of how wonderful the people of Albania have been to our kids. 
+Ben and I hung back to check out the museum inside and Dan and the other kids headed out so Dan could get a coffee and the kids could run around a bit more. We found a great café for this the day before. Dan said when they were walking there, Sam tripped pretty bad and an old lady came over and spit on the ground and started stomping on it and yelling. Sam couldn't resist laughing though the tears. Another example of how wonderful the people of Albania have been to our kids. 
 
 At the cafe, you could only see them if they popped their heads out, but they are about 30m behind us down the path...making potions.
 
@@ -196,7 +196,7 @@ At our place we just wanted to lay down. Dan got Max (and himself?) down for a n
 
 ![Alt text](/images/travel2/PXL_20230812_152844930.jpg)
 
-Back through the bazaar to go to a restaruant Dan picked out.
+Back through the bazaar to go to a restaurant Dan picked out.
 
 ![Alt text](/images/travel2/PXL_20230812_160451184.jpg)
 ![Alt text](/images/travel2/PXL_20230812_153836063.jpg)
@@ -210,7 +210,3 @@ out for dinner in the bazaar, some meandering, a flute purchase for Sammy and ba
 ![Alt text](/images/travel2/PXL_20230812_114331434.jpg)
 
 I wasn’t able to book the family room for 3 nights, so we moved to a triple and a double. It was a level above, so I hoped the music would be better. It wasn’t, but the power went out at 9:30pm so that was kinda great for my sleep. 
-
-
-
----

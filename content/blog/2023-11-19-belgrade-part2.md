@@ -4,8 +4,8 @@ date: 2023-11-19
 description: "A smaller Vienna, with extra trees"
 #tags: ["emoji"]
 thumbnail: /images/travel4/PXL_20231120_120613729.jpg
-
 ---
+
 Today was the day I had organized a walking tour with a private guide (through AirBnB experiences). It didn’t start until 11am, but I wanted to get early breakfast AND a late breakfast in, with a lot of chill time as to not losing energy beforehand. We have a bakery right across the street, and once all the kids were up (Ben slept in until 8:30am!), I ran across to get Serbian croissants and some other baked goods. What’s a Serbian croissant you ask? It’s bigger than a typical croissant and much drier, kinda bready. Don't recommend but kids love them.
 
 ![Alt text](/images/travel4/PXL_20231119_064119960.jpg)
@@ -26,7 +26,7 @@ Sunday is free admission for the museum so we decided to pop in for 15 minutes. 
 
 ![Alt text](/images/travel4/PXL_20231119_110150393.jpg)
 
-I had mentioned to Alexander that I was bribing the kids with ice cream if they were good and he said we’d be walking past the best one in town. This is 100% why I like to do a privat tour that gets catered to us. Sometimes we just need an ice cream break after a museum. Kids heard and after the museum we headed there. It was called Black Sheep and it was VERY good! I got Oreo, Max got chocolate (always), Sam got honey/vanilla/something else and Ben got passion fruit…which was so good!
+I had mentioned to Alexander that I was bribing the kids with ice cream if they were good and he said we’d be walking past the best one in town. This is 100% why I like to do a private tour that gets catered to us. Sometimes we just need an ice cream break after a museum. Kids heard and after the museum we headed there. It was called Black Sheep and it was VERY good! I got Oreo, Max got chocolate (always), Sam got honey/vanilla/something else and Ben got passion fruit…which was so good!
 
 ![Alt text](/images/travel4/PXL_20231119_113252327.MP.jpg)
 
@@ -62,7 +62,7 @@ We headed to the park after and with the sun on us, I was able to sit on a bench
 
 ![Alt text](/images/travel4/PXL_20231119_130156043.jpg)
 
-We had talked about going to a grocery store so the kids could pick out food for their home restaurant that night. By some annoying unaversive plan, right between the park and the market I had picked out to go to was ANOTHER mini theme park. The kids talked me into bumper cars, it wasn’t hard, and we had the time of our lives…twice. It was an odd bumper car experience as there was only one other car going with us the first round and you could actually steer and drive around, although Max was more of a fan of just ramming into the side.
+We had talked about going to a grocery store so the kids could pick out food for their home restaurant that night. By some annoying universe plan, right between the park and the market I had picked out to go to was ANOTHER mini theme park. The kids talked me into bumper cars, it wasn’t hard, and we had the time of our lives…twice. It was an odd bumper car experience as there was only one other car going with us the first round and you could actually steer and drive around, although Max was more of a fan of just ramming into the side.
 
 ![Alt text](/images/travel4/PXL_20231119_134923969.jpg)
 
@@ -72,7 +72,7 @@ At home, Ben worked on finishing up the menu and Sam set the table for Max and m
 
 ![Alt text](/images/travel4/PXL_20231119_153334111.MP.jpg)
 
-Max felt so special that it was just the 2 of us (he told me that twice) and Ben and Sam were the cutest team (minus one argument over who was cutting the bread) constantly bringing out dishes, while stealing food off my plate. I wish I had taking a photo of the menu because it had lots of options. There were 3 salad options...cucumber, tomato and 'in prison' salad. I think this comes from when we ordred 'fish in prison' in North Macedonia which was a reference to it being cooked all wrapped up in the shape of a bag and kinda steamed. The 'in prison' salad on their menu was a normal one but with a plate on top to 'trap' the salad.
+Max felt so special that it was just the 2 of us (he told me that twice) and Ben and Sam were the cutest team (minus one argument over who was cutting the bread) constantly bringing out dishes, while stealing food off my plate. I wish I had taking a photo of the menu because it had lots of options. There were 3 salad options...cucumber, tomato and 'in prison' salad. I think this comes from when we ordered 'fish in prison' in North Macedonia which was a reference to it being cooked all wrapped up in the shape of a bag and kinda steamed. The 'in prison' salad on their menu was a normal one but with a plate on top to 'trap' the salad.
 
 ![Alt text](/images/travel4/PXL_20231119_155732769.MP.jpg)
 
@@ -90,7 +90,7 @@ It was so NEW! No exposed brick that had been worn away, no level after level of
 
 ![Alt text](/images/travel4/PXL_20231120_090444494.jpg)
 
-And Ben and I decided, it wasn’t as tall. But I will say, if you have to design a church after an exisiting building AND you chose the Hagia Sofia, it's going to be hard to measure up...literally and figuratively.
+And Ben and I decided, it wasn’t as tall. But I will say, if you have to design a church after an existing building AND you chose the Hagia Sofia, it's going to be hard to measure up...literally and figuratively.
 
 ![Alt text](/images/travel4/PXL_20231120_090644335.jpg)
 
@@ -98,9 +98,9 @@ The entrance doors, we noticed on the way out, were very tall, wooden and were e
 
 ![Alt text](/images/travel4/PXL_20231120_090310449.jpg)
 
-There was an area outside where you could buy candles to light…a catholic thing I think. The kids have no idea the point of it (me neither actually), but the kids love lighting them and we make a wish or say something we are grateful for when we light them. I say it all the time, and it’s a bit cliché, but I tell them all time…I’m so grateful to have 3 awesome kids. I do now add…'that love to adventure with me all the time'. We started out from St Sava and I could see it happen before the kids even had it in sight. ‘Park!!! Can we go? Family rule!’ Ben had to pee, so I we found a coffee shop for a caffine boost for me and a bathroom for the kids. It just happened to also be a gelato place, so with it being 10am and me being a responsible parent, I got an ice cream cone to go with my cappuccino and the kids each got a couple licks.
+There was an area outside where you could buy candles to light…a catholic thing I think. The kids have no idea the point of it (me neither actually), but the kids love lighting them and we make a wish or say something we are grateful for when we light them. I say it all the time, and it’s a bit cliché, but I tell them all time…I’m so grateful to have 3 awesome kids. I do now add…'that love to adventure with me all the time'. We started out from St Sava and I could see it happen before the kids even had it in sight. ‘Park!!! Can we go? Family rule!’ Ben had to pee, so I we found a coffee shop for a caffeine boost for me and a bathroom for the kids. It just happened to also be a gelato place, so with it being 10am and me being a responsible parent, I got an ice cream cone to go with my cappuccino and the kids each got a couple licks.
 
-Not a hugely special park, but I have learned, this does not matter to the kids. There was a 2 seater sea-saw and the kids were really trying to get it to balance with some skooching and leaning, but didn’t quite get it. They convinced me to get on and with some moving around a bit we got ourselves to static equilibrium! F = 0!! I was maybe a bit too excited by this, but we all kinda were. And then we proceed to move up and down by just leaning forward and back. Statics is awesome!
+Not a hugely special park, but I have learned, this does not matter to the kids. There was a 2 seater sea-saw and the kids were really trying to get it to balance with some scooting and leaning, but didn’t quite get it. They convinced me to get on and with some moving around a bit we got ourselves to static equilibrium! F = 0!! I was maybe a bit too excited by this, but we all kinda were. And then we proceed to move up and down by just leaning forward and back. Statics is awesome!
 
 ![Alt text](/images/travel4/PXL_20231120_100328027.jpg)
 
@@ -136,7 +136,7 @@ I picked an odd one that looked like there were little hands at end of each leav
 
 ![Alt text](/images/travel4/PXL_20231120_120449676.jpg)
 
-Also in the greenhouse was a small art exibit. I didn't read it all, but it was art by students inspired by nature.
+Also in the greenhouse was a small art exhibit. I didn't read it all, but it was art by students inspired by nature.
 
 ![Alt text](/images/travel4/PXL_20231120_120713244.jpg)
 
@@ -162,7 +162,7 @@ I had tried online to check in with no luck. I called Air Serbia and they said b
 
 ![Alt text](/images/travel4/PXL_20231121_050448199.jpg)
 
-I got a coffee and I let Ben use the vending machine to get a water as there are NO water fountains at the airport…at least that we could find. The gate screen said we were delayed 15 minutes, but by the time we boarded and sat and sat, it was close to an hour. With all of us low energy, I let the 2 younger ones watch an episode of The Aquarium and Ben read and wrote. The rest of the time we all 'read' the inflight magazine and picked out our favoite pages (aka pictures).
+I got a coffee and I let Ben use the vending machine to get a water as there are NO water fountains at the airport…at least that we could find. The gate screen said we were delayed 15 minutes, but by the time we boarded and sat and sat, it was close to an hour. With all of us low energy, I let the 2 younger ones watch an episode of The Aquarium and Ben read and wrote. The rest of the time we all 'read' the inflight magazine and picked out our favorite pages (aka pictures).
 
 ![Alt text](/images/travel4/PXL_20231121_080442144.jpg)
 
@@ -171,7 +171,3 @@ Sam somehow managed to get some good self portraits in.
 ![Alt text](/images/travel4/PXL_20231121_080637548.jpg)
 
 SUPER bumpy landing, but we made it! Again, easy passport control. I usually tell the kids that if they aren’t good through passport control, the boarder agent won’t let us into their country. I got them to all stand still so she could see their faces. She stamped each passport without even looking up! Kept walking, following the signs to ‘buses’.
-
-
-
----

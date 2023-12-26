@@ -4,18 +4,17 @@ date: 2023-08-06
 description: "Welcomed with WIDE open arms"
 #tags: ["emoji"]
 thumbnail: /images/travel/PXL_20230810_083938416.MP.jpg
-
 ---
 
 I want to start this post with talking about how I have never (and I mean never and I've traveled a LOT) felt so welcomed into a country as I/we have in Albania. Within minutes my kids are on hugging terms with waiters and people from where we stayed. Older people would walk up to us in the streets, bend down to the kids level and start speaking to the kids (in Albanian) with huge smiles on their faces. Then they ruffle the kids hair as they walk away. Numerous times a day, head kisses or hair ruffles. Kids returned it with big smiles or giggles...except Max a couple times when he was grumpy because of something not going his way.
 
-The kids were constantly gived gifts (chocolates or sweets) from our B & B in Gjirokaster and ran into the owners arms each morning when we came out for breakfast. 
+The kids were constantly given gifts (chocolates or sweets) from our B & B in Gjirokaster and ran into the owners arms each morning when we came out for breakfast. 
 
 When we went to the castle in Gjirokaster, the guy that gave us our tickets said 'welcome' in the MOST genuine tone I have ever heard. It was like he was saying a million things with that one word and kind eyes.
 
 The overall feeling is hard to explain, but it has been felt deeply by all of us...even the kids I think.
 
-Okay, onto the upates...
+Okay, onto the updates...
 
 I had picked the Hotel Evropa in Podgorica because it has breakfast included and was 200m from the bus stop, knowing we’d have a morning bus ride. It all couldn’t have gone smoother, except for Max having to go pee yet again as the driver was boarding the bus. He motioned to the wheel and Max peed there. We had the last row of seats, so we were 5 across, great except for the fact I was worried if a kid was in the middle whey would have gone flying down the isle if we stopped suddenly.
 
@@ -31,7 +30,7 @@ The rest of the ride was brutal as the 4hr ride took 7hrs due to traffic. I had 
 
 ![Alt text](/images/travel/PXL_20230806_121919967.jpg)
 
-Back on the bus and an hour later, we arrived. Cab to airport, Dan got Albania lekes from an ATM, I got the car. Very easy transistion and we were off. As soon as we got out of town, we had amazing scenery and then a giant mountain that loomed over us for the 2nd half of the drive.
+Back on the bus and an hour later, we arrived. Cab to airport, Dan got Albania lekes from an ATM, I got the car. Very easy transition and we were off. As soon as we got out of town, we had amazing scenery and then a giant mountain that loomed over us for the 2nd half of the drive.
 
 ![Alt text](/images/travel/PXL_20230806_165905696.MP.jpg)
 
@@ -47,7 +46,7 @@ I had googled ‘top 10 Albania agrotourism’ or something like that. The first
 
 ![Alt text](/images/travel/PXL_20230807_201105114.jpg)
 
-We pulled up (it was literally at the end of a road that seemed to wind around forever…but really only 10minues) and immediately knew this place was special. We got checked in, Dan worked on getting the kids to bed and I went to the restaurant to get food and wine for Dan and myself food. I asked for a menu and the guy said ‘I’m the menu’ with a smile and told me options. I said we just needed something light and he put together a big salad, homemade bread and cheese. I tasted 2 wines and picked one to bring back. When I got back, the kids were dozing off and I took our dinner to the patio to relax after a very long day. Kids sleeping, Dan and I sipping wine, it was a nice end to the day.
+We pulled up (it was literally at the end of a road that seemed to wind around forever…but really only 10 minutes) and immediately knew this place was special. We got checked in, Dan worked on getting the kids to bed and I went to the restaurant to get food and wine for Dan and myself food. I asked for a menu and the guy said ‘I’m the menu’ with a smile and told me options. I said we just needed something light and he put together a big salad, homemade bread and cheese. I tasted 2 wines and picked one to bring back. When I got back, the kids were dozing off and I took our dinner to the patio to relax after a very long day. Kids sleeping, Dan and I sipping wine, it was a nice end to the day.
 
 ![Alt text](/images/travel/PXL_20230806_185301692.jpg)
 
@@ -68,7 +67,7 @@ Kids came back all excited to tell me about the hike and Sam was thrilled to see
 
 ![Alt text](/images/travel/PXL_20230807_161054862.jpg)
 
-Follwed up the day with a lovely dinner and food that the kids scarfed up. First course before the main course of chicken and some grain, stewed to perfection.
+Followed up the day with a lovely dinner and food that the kids scarfed up. First course before the main course of chicken and some grain, stewed to perfection.
 
 ![Alt text](/images/travel/PXL_20230807_105434849.jpg)
 
@@ -102,7 +101,7 @@ Rule: only leave the room if there is a fire (in that case bring your brothers) 
 
 When we turned in very late, all kids were asleep sprawled out on their beds...hopefully, already asleep for a few hours.
 
-In the garden area, where we hung out a lot, the kids found a toad that not only hopped, but walked like a lizard at times. So werid.
+In the garden area, where we hung out a lot, the kids found a toad that not only hopped, but walked like a lizard at times. So weird.
 
 ![Alt text](/images/travel/PXL_20230810_082903121.jpg)
 
@@ -114,9 +113,9 @@ I can't express how amazing the food was here. I should have taken more photos. 
 
 One day when the kids were playing in the downstairs, vine covered area we heard Sammy start screaming. Screaming like something is wrong, not screaming like my brother took my favorite stick. The owner jumps up (grandpa age) and runs to see what happened. Sam had been stung by 3 wasps and the owner was carrying him up as another woman is rubbing sugar on it to help with the pain. A decent amount of whimpering in my arms after and he was as good as new.
 
-It has space to roam, but the restaruant and seating area is not huge, so we were always kinda around. Anytime a worker or owner saw the kids, they would stick their hand out for a high five or open their arms for a hug...and they were ALWAYS given the high five or hug. Somehow they communicated so much with our kids, without even speaking the same language.
+It has space to roam, but the restaurant and seating area is not huge, so we were always kinda around. Anytime a worker or owner saw the kids, they would stick their hand out for a high five or open their arms for a hug...and they were ALWAYS given the high five or hug. Somehow they communicated so much with our kids, without even speaking the same language.
 
-Our last morning there, the kids were downstairs as we were sipping cappucionos when they saw a guy picking tomatoes. Next thing you know, all three kids have helped fill up 4 giant tubs of tomatoms. 
+Our last morning there, the kids were downstairs as we were sipping cappuccinos when they saw a guy picking tomatoes. Next thing you know, all three kids have helped fill up 4 giant tubs of tomatoes. 
 
 ![Alt text](/images/travel/PXL_20230810_063026392.jpg)
 
@@ -134,5 +133,3 @@ And would it really be a trip if I didn't comment on some odd engineering. The c
 Not the safest guardrail, but it did the trick as long as you didn't touch it.
 
 ![Alt text](/images/travel/PXL_20230808_163213821.jpg)
-
----

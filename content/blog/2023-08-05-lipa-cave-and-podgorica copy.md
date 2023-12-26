@@ -85,12 +85,8 @@ Rebar was desperately exposed.
 
 ![Alt text](/images/travel/PXL_20230805_162049710.jpg)
 
-When we got back we read about the incredibly sad story that a person had pieced together while we ate left overs from lunch...we somehow ended up with a full extra stuffed hamburger. Not actually extra when we realzied that one order contained 2 'burgers' of cevapi.
+When we got back we read about the incredibly sad story that a person had pieced together while we ate left overs from lunch...we somehow ended up with a full extra stuffed hamburger. Not actually extra when we realized that one order contained 2 'burgers' of cevapi.
 
 And at the end of a full and exhausting day, I got dog pilled on. 
 
 ![Alt text](/images/travel/PXL_20230806_050332670.jpg)
-
-
-
----

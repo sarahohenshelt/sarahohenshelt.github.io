@@ -34,7 +34,7 @@ One day we went exploring and headed to the Ogdeon (the music hall on campus) be
 
 ![Alt text](/images/travel3/PXL_20230907_102330781.jpg)
 
-On our walk to the family center, we walk past a walk up window resturant. We've had olive croissants, chocolate rolls and cheese bread. They sell out on the early side, so it's always a bummer to walk up, look in the case and have all fun breakfast foods gone.
+On our walk to the family center, we walk past a walk up window restaurant. We've had olive croissants, chocolate rolls and cheese bread. They sell out on the early side, so it's always a bummer to walk up, look in the case and have all fun breakfast foods gone.
 
 ![Alt text](/images/travel3/PXL_20231010_063414890.jpg)
 
@@ -60,7 +60,7 @@ Kids’ art and plants do have that affect.
 
 We have a restaurant that is a total of 100 of my steps away from the front door of our apartment building. The first time I went there no one spoke English, so I just ordered the first 4 things on the menu and 2 soups. I knew the word for soup. Turns out I ordered pide and out the family are huge fans! Pretty sure we’ll be going there very often. Pide is a thin break, baked with minimal toppings, served with tomato, lettuce, cucumber, cicik (yogurt sauce with dill), ezme (red pepper salsa) and lemon. You pile all the side on the pide, roll it up and enjoy.
 
-For home meals, not much variety, but it works for us. They usually involve wraps...ettuce, cucumber, yogurt sauce (pros at making it now), pickles, meat, tomatoes and some other sauces we've come to like. 
+For home meals, not much variety, but it works for us. They usually involve wraps...lettuce, cucumber, yogurt sauce (pros at making it now), pickles, meat, tomatoes and some other sauces we've come to like. 
 
 ![Alt text](/images/travel3/PXL_20231002_141302699.jpg)
 ![Alt text](/images/travel3/PXL_20230929_151052018.MP.jpg)
@@ -80,5 +80,3 @@ It's been fun to pick a random fish, bring it home and have Dan cook it. :)
 So, 2 weeks in and we are doing okay! Feeling good, not feeling rushed to go see every corner of Turkey (that will come!) and getting into a bit of a routine…but not too much because I really wanted to break out of that this year! I have always wondered what I live would be like without yelling at kids to ‘hurry up’ or ‘get in the car faster, we are going to be late’ and I have a bit of that here so far. No alarms, not that we had them in Arizona really, no rushing to get to school or afterschool activities. If we want to get to the family center, we get there when we want and most days we stop for a pastry on the way. We even saw a hedgehog one day in the woods walking there!
 
 ![Alt text](/images/travel3/PXL_20230912_065327480.jpg)
-
----

@@ -38,7 +38,7 @@ Happy kids after they all got to jump and cool off, temporarily.
 
 ![Alt text](/images/travel/cinque-terra-family.jpg)
 
-And of course we made all the kids line up in decentling order for a final group photo.
+And of course we made all the kids line up in descending order for a final group photo.
 
 ![Alt text](/images/travel/cinque-terra-kids.jpg)
 

@@ -4,8 +4,8 @@ date: 2023-08-28
 description: "A Castle, A Communist Lair, A Beautiful Setting"
 #tags: ["emoji"]
 thumbnail: /images/travel2/PXL_20230830_071327383.jpg
-
 ---
+
 The next morning, we were treated to more pastry items that the dads went out to get. A breakfast of trying to use up some food and Big Ben, Sam and I headed to the airport to pick up our rental cars. Sam and Ben were playing the ‘drums’ to the beat of the music on the way there and Sam was in love. He was so cuddly with Ben the whole ride and while we were getting the cars.
 
 ![Alt text](/images/travel2/PXL_20230829_071554164.jpg)
@@ -26,7 +26,7 @@ The next part of the drive, to Veliko Tarnovo, was not fun. One lane road, windy
 
 ![Alt text](/images/travel2/PXL_20230829_125448190.MP.jpg)
 
-We arrived in one piece, stumbled out of the cars with looks of relieve and complete exhaustion on all of our faces...minus the kids.  Dan jumped out and pulled the cork out of a partially drunk wine bottle and we all happily took some swigs. We headed to a restaruant and of course found a park. Sometimes I wonder "do we find the parks or do the parks find us?!". 
+We arrived in one piece, stumbled out of the cars with looks of relieve and complete exhaustion on all of our faces...minus the kids.  Dan jumped out and pulled the cork out of a partially drunk wine bottle and we all happily took some swigs. We headed to a restaurant and of course found a park. Sometimes I wonder "do we find the parks or do the parks find us?!". 
  
 ![Alt text](/images/travel2/PXL_20230829_131623711.MP.jpg)
 
@@ -34,11 +34,11 @@ With promises of stopping on the way back, we continued down old streets to a re
  
 ![Alt text](/images/travel2/PXL_20230829_132739629.jpg)
 
-It wasn’t quite dinner time, but lunch was early and small so we were all hungry. Can’t go wrong with shopka salad and pizza for the kids...and when there is 'retro' beer on the menu, you order it, right? Pretty much nailed it.
+It wasn’t quite dinner time, but lunch was early and small so we were all hungry. Can’t go wrong with shopska salad and pizza for the kids...and when there is 'retro' beer on the menu, you order it, right? Pretty much nailed it.
  
 ![Alt text](/images/travel2/PXL_20230829_134734717.jpg)
 
-A little too big for me with the bit of wine, but Dan happily helped out. Another pertk to not driving. Adults were a bit more adventurous and Max ate almost all the yogurt with pickle appetizer. 
+A little too big for me with the bit of wine, but Dan happily helped out. Another perk to not driving. Adults were a bit more adventurous and Max ate almost all the yogurt with pickle appetizer. 
 
 ![Alt text](/images/travel2/375298153_10233107004408300_1431826828629929802_n.jpg)
 
@@ -71,17 +71,17 @@ Without much breakfast food and wanting to get out, Dan found a pink café. Basi
 ![Alt text](/images/travel2/PXL_20230830_053704002.jpg)
 ![Alt text](/images/travel2/PXL_20230830_053949635.jpg)
 
-Good food and a delicious iced latte, with just the right amount of milk. I made the kids get eggs for breakfast and I got the ‘fried balls’. Basically, fried balls of dough with jelly and Nutella to dip them in. 
+Good food and a delicious iced latte, with just the right amount of milk. I made the kids get eggs for breakfast and I got the ‘fried balls’. Basically, fried balls of dough with jelly and Nutella to dip them in.
 
 ![Alt text](/images/travel2/PXL_20230830_061518509.MP.jpg)
 
 There was sharing of course and I have never seen Max down a full adult breakfast so fast.
 
-With only the morning to explore such a cool town, we headed to the Tsaravets Fortress, of course stopping to admire the architectural styles of the area. I have no idea what type of wood or what type of proection was used, but the wood famed withing the stone seems to have held up very well. And why was it added it? I'm thinking so the building can contract and expand with the seasons? Or maybe included during the contruction as a sort of form work for the stone? Or it just looks cool? 
+With only the morning to explore such a cool town, we headed to the Tsaravets Fortress, of course stopping to admire the architectural styles of the area. I have no idea what type of wood or what type of protection was used, but the wood famed withing the stone seems to have held up very well. And why was it added it? I'm thinking so the building can contract and expand with the seasons? Or maybe included during the construction as a sort of form work for the stone? Or it just looks cool? 
 
 ![Alt text](/images/travel2/PXL_20230830_064413287.jpg)
 
-Stumbbled upon this building and I always love copper roofs.
+Stumbled upon this building and I always love copper roofs.
 
 ![Alt text](/images/travel2/PXL_20230830_064141233.jpg)
 
@@ -97,15 +97,15 @@ Amazing rock work and really, how is it still standing? Yes I know a lot of it h
 
 ![Alt text](/images/travel2/PXL_20230830_070343360.jpg)
 
-Found a giant scorpian...the weapon not the bug thank god!
+Found a giant scorpion...the weapon not the bug thank god!
 
 ![Alt text](/images/travel2/PXL_20230830_071327383.jpg)
 
-Sam was lagging and convinced his buddy Ben to give hima lift. A true friend!
+Sam was lagging and convinced his buddy Ben to give him a lift. A true friend!
 
 ![Alt text](/images/travel2/PXL_20230830_071641439.jpg)
 
-It didn't seem much like Sam, so a quick hand to the forehead and it was clear he had a fever. I gave him a couple kid Tylenol chewables and we laid in a shady area while the rest went off exploring. Modern day medicine is mind bogglingly amazing. In about 20 minutes he was a different kid and we went off searching for the crew. 
+It didn't seem much like Sam, so a quick hand to the forehead and it was clear he had a fever. I gave him a couple kid Tylenol chewables and we laid in a shady area while the rest went off exploring. Modern day medicine is mind boggling amazing. In about 20 minutes he was a different kid and we went off searching for the crew. 
 
 ![Alt text](/images/travel2/PXL_20230830_073817590.jpg)
 
@@ -113,7 +113,7 @@ We convened at the top outside a church. The inside was painted in a way I had n
 
 ![Alt text](/images/travel2/PXL_20230830_074658630.jpg)
 
-The whole area really was amazing and if we had had more time, we could have wandered for hours (if we also had food). It was enourmous and views from all directions. But we looked at the time and realized we still had to get back and wrap up packing and be out by checkout time. The Bens and Dan went off ahead while the moms and the other kids made our way in a more relaxed fashion. Note: with a 3yo, it’s never fast. Taking in the town a bit more on the walk back with the old buildings and winding streets and cats everywhere, we made it back not too long after them. Bags were in the courtyard and not wanting to lug our stuff back to the cars, Ben and I thought we could do the drive to the place. The drive there was okay actually. Kinda flat and we were SO lucky no cars came the other direction. Loaded up quicky, said goodbye to the communist dungeon. The drive to the main road, well not as easy. It brought bad memories of Gyrocaster, although Dan knew to keep comments to himself this time. We were just to the top of the hill to turn to the main road and a truck starts turning down. Dan yelled so loud I think the guy heard and stopped. So there’s me on a decent slope, Ben behind. 2 stalls later and I zipped up to the road and Dan attempted to signal to the guy that there’s another car coming. 
+The whole area really was amazing and if we had had more time, we could have wandered for hours (if we also had food). It was enormous and views from all directions. But we looked at the time and realized we still had to get back and wrap up packing and be out by checkout time. The Bens and Dan went off ahead while the moms and the other kids made our way in a more relaxed fashion. Note: with a 3yo, it’s never fast. Taking in the town a bit more on the walk back with the old buildings and winding streets and cats everywhere, we made it back not too long after them. Bags were in the courtyard and not wanting to lug our stuff back to the cars, Ben and I thought we could do the drive to the place. The drive there was okay actually. Kinda flat and we were SO lucky no cars came the other direction. Loaded up quickly, said goodbye to the communist dungeon. The drive to the main road, well not as easy. It brought bad memories of Gyrocaster, although Dan knew to keep comments to himself this time. We were just to the top of the hill to turn to the main road and a truck starts turning down. Dan yelled so loud I think the guy heard and stopped. So there’s me on a decent slope, Ben behind. 2 stalls later and I zipped up to the road and Dan attempted to signal to the guy that there’s another car coming. 
 
 It was lunch time and we needed food. Dan found a park next to a grocery store and a cute café. Dan headed to buy food, Ben went to buy clothes and Laura and I (wo)manned the park with the kids. 
 
@@ -150,5 +150,3 @@ We winded a bit and finally got our first view of the Black Sea. Directions took
 We finally checked into our rooms.
 
 Continued on https://travelingengineer.com/blog/2023-08-29-byala/
-
----

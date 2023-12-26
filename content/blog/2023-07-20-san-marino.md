@@ -5,11 +5,12 @@ description: "San Marino, Italy but cooler :)"
 #tags: ["emoji"]
 thumbnail: /images/travel/san-marino.jpg
 ---
+
 All the holding up of the Pisa Tower tuckered these kids out. :) 
 
 ![Alt text](/images/travel/PXL_20230720_114948388.jpg)
 
-And it seems the car was concerned about my tireness because it let me know I had been driving for an hour and needed a coffee. Only in Italy!
+And it seems the car was concerned about my tiredness because it let me know I had been driving for an hour and needed a coffee. Only in Italy!
 
 ![Alt text](/images/travel/PXL_20230720_120324423.MP.jpg)
 
@@ -108,7 +109,3 @@ Dinner in the parlor with some instense car playing.
 ![Alt text](/images/travel/PXL_20230721_170827214.jpg)
 
  Teeny room (as expected) and Max insisted on sleeping on the top. It’s 4 to a room, so even though Dan was technically a deck passenger, we let him in. Max and I shared a bed with me keeping him sandwiched between my feet so he couldn’t fall out. He didn’t. :) 
-
-
-
----

@@ -5,7 +5,6 @@ description: "Not a bad way to turn 43!"
 #tags: ["emoji"]
 thumbnail: /images/travel4/PXL_20231126_090126435.jpg
 ---
-
 I had heard mixed feelings about Naples, but I wasn’t too concerned as we were so excited about seeing Pompeii, nothing could deter us. Yes, it felt a bit rough around the edges, but we liked it. Felt a lot like Genoa, another Italian port city.
 
 Our Airbnb host let us check in at noon because no one had been there the night before. Quickly did the walk through and headed to a pizza place for lunch she recommended. We got a table in the back and ate delicious pizza! I think it’s the dough that makes it amazing…I usually don’t eat the crust, but I was taking the crust off the kids plates when they were getting full.
@@ -262,5 +261,4 @@ At 6:55am, 5 minutes before the taxi was due to show up, I headed down with 2 ki
 
 ![Alt text](/images/travel4/PXL_20231127_075350980.jpg)
 ![Alt text](/images/travel4/PXL_20231127_092436388.MP.jpg)
-
 ---
