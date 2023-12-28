@@ -5,6 +5,7 @@ description: "Not a bad way to turn 43!"
 #tags: ["emoji"]
 thumbnail: /images/travel4/PXL_20231126_090126435.jpg
 ---
+
 I had heard mixed feelings about Naples, but I wasn’t too concerned as we were so excited about seeing Pompeii, nothing could deter us. Yes, it felt a bit rough around the edges, but we liked it. Felt a lot like Genoa, another Italian port city.
 
 Our Airbnb host let us check in at noon because no one had been there the night before. Quickly did the walk through and headed to a pizza place for lunch she recommended. We got a table in the back and ate delicious pizza! I think it’s the dough that makes it amazing…I usually don’t eat the crust, but I was taking the crust off the kids plates when they were getting full.
@@ -64,7 +65,7 @@ We learned a bit, but it wasn’t that fun. The kids did enjoy seeing the bones 
 
 ![Alt text](/images/travel4/PXL_20231125_094327565.jpg)
 
-My favorite part was a giant dome with concrete ribs. It diveded the roof into 8 parts and gave an impression of (or reall it was) a incredibly intricate roof that was staying up based on a lot of geometry. 
+My favorite part was a giant dome with concrete ribs. It divided the roof into 8 parts and gave an impression of (or really it was) a incredibly intricate roof that was staying up based on a lot of geometry. 
 
 ![Alt text](/images/travel4/PXL_20231125_100051556.MP.jpg)
 
@@ -72,7 +73,7 @@ The tour ended with climbing 4 flights of stairs up to the top. Rain more or les
 
 ![Alt text](/images/travel4/PXL_20231125_101349706.jpg)
 
-And we finally got an almost unubstructed view of Mt Vesuvius.
+And we finally got an almost unobstructed view of Mt Vesuvius.
 
 ![Alt text](/images/travel4/PXL_20231125_102517049.jpg)
 
@@ -101,7 +102,7 @@ Good thing we got on the train at the first stop, because by the second stop it 
 ![Alt text](/images/travel4/PXL_20231126_090126435.jpg)
 
 *Disclosure:
-No amount of photos or explaination can show the size and wonder of this place. I will try, but it really is something that should be experienced. I was on cloud 9 the whole time...even when I was annoyed at my kids.
+No amount of photos or explanation can show the size and wonder of this place. I will try, but it really is something that should be experienced. I was on cloud 9 the whole time...even when I was annoyed at my kids.
 
 Unfolding the map, we were only not sort of understanding the vastness of it all. We started up the path and turned into the first area to see the ruins and indoor spaces. It seemed everywhere we looked, there was something else to see. Something that just blew your mind.
 
@@ -115,7 +116,7 @@ We continued up the road. As I said before, and will probably say again, everywh
 
 ![Alt text](/images/travel4/PXL_20231126_091535904.jpg)
 
-We coninuted up the road with our trusty navigator to some open areas with old columns. 
+We continued up the road with our trusty navigator to some open areas with old columns. 
  
 ![Alt text](/images/travel4/PXL_20231126_091944254.MP.jpg)
 
@@ -123,7 +124,7 @@ The columns were pretty cool, giving the shape of multi-pointed stars due to the
 
 ![Alt text](/images/travel4/PXL_20231126_092211479.jpg)
 
-Having the area to oursleves, we explored around a lot. We definately didn't get there when it opened, but if still felt empty and it was really nice to have areas to ourselves as we walked about.
+Having the area to ourselves, we explored around a lot. We definitely didn't get there when it opened, but if still felt empty and it was really nice to have areas to ourselves as we walked about.
 
 ![Alt text](/images/travel4/PXL_20231126_092412239.jpg)
 
@@ -133,7 +134,7 @@ Even a city that was preserved in ash/dirt for 2000 years isn't going to come ou
 
 ![Alt text](/images/travel4/PXL_20231126_092511021.jpg)
 
-I'm assuming this needed help to be put back together after excacation, but I don't know. I would love to know how so many of these ruins were found and how many were pieced back together. Somthing as spindly as this, probably had help.
+I'm assuming this needed help to be put back together after excavation, but I don't know. I would love to know how so many of these ruins were found and how many were pieced back together. Something as spindly as this, probably had help.
 
 ![Alt text](/images/travel4/PXL_20231126_092649347.jpg)
 
@@ -153,7 +154,7 @@ It was fascinating to see all the stone that was still so preserved…2000 years
 
 ![Alt text](/images/travel4/PXL_20231126_094344084.jpg)
 
-We really couldn't figure this one out. The wood was wrapped in thin steel (to prevent rotting, we assumed), buty why use the wood at all? It wasn't a big span...the brick could have done it in compression.
+We really couldn't figure this one out. The wood was wrapped in thin steel (to prevent rotting, we assumed), but why use the wood at all? It wasn't a big span...the brick could have done it in compression.
 
 ![Alt text](/images/travel4/PXL_20231126_094449108.jpg)
 
@@ -192,7 +193,7 @@ Showing off my new bangs!
 
 ![Alt text](/images/travel4/PXL_20231126_110804012.jpg)
 
-When we got there, it was too cool! It looked like it would be still functionable. Steps in great shape, no much loose rock, never mind the stairways that were death traps if you had a slight misstep. We thought here would be a goodtime for some journaling for the kids and sitting around for the adults. Super bonus: no one there!
+When we got there, it was too cool! It looked like it would be still functional. Steps in great shape, no much loose rock, never mind the stairways that were death traps if you had a slight misstep. We thought here would be a good time for some journaling for the kids and sitting around for the adults. Super bonus: no one there!
 
 ![Alt text](/images/travel4/PXL_20231126_111226658.jpg)
 
@@ -219,7 +220,7 @@ Seeing the main parts we wanted to see and knowing out limit could be hit with t
 
 ![Alt text](/images/travel4/PXL_20231126_115851045.jpg)
 
-We had noticed a lot of the rock in the old buildings were very pourous, making us think that it was a city that was made of volcanic rock that was then buried by volcanic ash. I'm assuming the roads were made with the same material and you could see how they were worn down by the carts. Seemed to work well for the buildings, but countless passes of carts made siginficant tracks in the rock. Inches worn away.
+We had noticed a lot of the rock in the old buildings were very porous, making us think that it was a city that was made of volcanic rock that was then buried by volcanic ash. I'm assuming the roads were made with the same material and you could see how they were worn down by the carts. Seemed to work well for the buildings, but countless passes of carts made significant tracks in the rock. Inches worn away.
 
 ![Alt text](/images/travel4/PXL_20231126_114132968.jpg)
 
@@ -261,4 +262,3 @@ At 6:55am, 5 minutes before the taxi was due to show up, I headed down with 2 ki
 
 ![Alt text](/images/travel4/PXL_20231127_075350980.jpg)
 ![Alt text](/images/travel4/PXL_20231127_092436388.MP.jpg)
----

@@ -33,7 +33,7 @@ The plan (2 months ago) had been to hike a bit, but not in this weather at this 
 ![Alt text](/images/travel/cinque-terra-boat.jpg)
 
 
-The sea breeze felt great, but nothing could shake the constant heat feeling…well except jumping in the sea. As we pulled into the dock, there were rocks off to the right people were jumping off. And we were already so hot again, so why not? There was no beach, so it was a bit of juggling for the jumping. Everyone did it! Sam jumped from the higher up area and got a huge applause. Max had to jump too, did it from about 1 foot and got a huge applause too. Then some floating around and walking around the town. 
+The sea breeze felt great, but nothing could shake the constant heat feeling…well except jumping in the sea. As we pulled into the dock, there were rocks off to the right people were jumping off. And we were already so hot again, so why not? There was no beach, so it was a bit of juggling for the jumping. Everyone did it! Sam jumped from the higher up area and got a huge applause. Max had to jump too, did it from about 1 foot and got a huge applause too. Then some floating around and walking around the town.
 Happy kids after they all got to jump and cool off, temporarily.
 
 ![Alt text](/images/travel/cinque-terra-family.jpg)
@@ -44,7 +44,7 @@ And of course we made all the kids line up in descending order for a final group
 
 We all took the train to the Riomaggorie,
 
-![Alt text](/images/travel/cinque-terra-kids.jpg) 
+![Alt text](/images/travel/cinque-terra-train-kids.jpg)
 
 got food for the train and then caught the train home. 
 
@@ -52,9 +52,8 @@ Kids were so sad to leave new friends and Ben was emotional on the train. I thin
 
 I think meeting up with friends during this year long trip is going to help us a lot. It was such a special day to spend with Rona and her family, especially when we only planned it the day before.
 
-
 And a couple more photos from the day
 
 ![Alt text](/images/travel/cinque-terre-max-ilona.jpg)
 
-![Alt text](../../static/images/travel/cinque-terra-glasses.jpg)
+![Alt text](/images/travel/cinque-terra-glasses.jpg)
