@@ -65,7 +65,7 @@ We needed food and Dan found a place in a little town. Best to not attempt drivi
 
 And the place was just as perfect as could be. Cozy in the rain, old couple running the place, menu on the wall, beers on tap.
 
-![Alt text](/images/travel5/IMG_20231230_123421_408.jpg)
+![Alt text](/images/travel5/PXL_20231230_124118402.jpg)
 
 Dan ordered the steak and kidney pie. When in Rome...
 
