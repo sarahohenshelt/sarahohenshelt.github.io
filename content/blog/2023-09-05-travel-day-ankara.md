@@ -6,17 +6,21 @@ description: "Ankara, here we come!!!"
 thumbnail: /images/travel3/PXL_20230905_151843327.jpg
 ---
 
-When starting to plan this trip, I had the romantic idea of getting from Nice, France to Ankara, Turkey without stepping foot on an airplane. A combination of buses, ferries, trains and rental cars would be much more fun and adventurous, right? To be 100% honest, I don’t regret any of it…except maybe the final push from Sofia, Bulgaria? (Just kidding, I wouldn't change a second of any of it!) But we had come this far, we couldn’t quit now. AND I think our whole family really does love fun #2. Maybe not Max, but hopefully he’ll grow into it
+When starting to plan this trip, I had the romantic idea of getting from Nice, France to Ankara, Turkey without stepping foot on an airplane. A combination of buses, ferries, trains and rental cars would be much more fun and adventurous, right? To be 100% honest, I don’t regret any of it…except maybe the final push from Sofia, Bulgaria? (Just kidding, I wouldn't change a second of any of it!) But we had come this far, we couldn’t quit now. AND I think our whole family really does love fun #2. Maybe not Max, but hopefully he’ll grow into it.
 
-For our final night/day in Sofia, we booked an Airbnb in town for 2 nights. We didn’t want to have to deal with our luggage all day until our 7pm train and we also wanted a place to be for part of the day as we were a bit tuckered out for our Bulgaria travels. Zero rush of a morning as our only plans were to see St Sofia Church and the catacombs below and Netzy (the building you usually see whenever you google ‘Sofia, Bulgaria’). I was able to get work and some packing done in the morning. Packing now involved a bit more since we had the duffle and things seemed to kinda be all over the place after we emptied the car and dumped it in the place. But even with the duffle, we still just didn’t have that much stuff, so it was not a daunting task…and I love packing. Left overs for lunch and then we headed out. It felt good to be out and for the first time on the entire trip (not counting being drenched or staying in the mountains) it felt like maybe, just maybe fall was coming. 
+For our final night/day in Sofia, we booked an Airbnb in town for 2 nights. We didn’t want to have to deal with our luggage all day until our 7pm train and we also wanted a place to be for part of the day as we were a bit tuckered out for our Bulgaria travels. Zero rush of a morning as our only plans were to see St Sofia Church and the catacombs below and Netzy (the building you usually see whenever you google ‘Sofia, Bulgaria’). And this was the kids well after the sun was up.
+
+![Alt text](/images/travel6/PXL_20230905_051600603.jpg)
+
+I was able to get work and some packing done in the morning. Packing now involved a bit more since we had the duffle and things seemed to kinda be all over the place after we emptied the car and dumped it in the place. But even with the duffle, we still just didn’t have that much stuff, so it was not a daunting task…and I love packing. Left overs for lunch and then we headed out. It felt good to be out and for the first time on the entire trip (not counting being drenched or staying in the mountains) it felt like maybe, just maybe fall was coming.
 
 ![Alt text](/images/travel3/PXL_20230905_105540980.jpg)
 
-We rounded the corner and got our first glimpse of St. Alexander Nevsky Cathedral. Technically Dan saw it on the tour, but it was for the boys and myself. It was a sight to see! So massive with giant copper roofs that contrasted beautifully with the stone walls. 
+We rounded the corner and got our first glimpse of St. Alexander Nevsky Cathedral. Technically Dan saw it on the tour, but it was for the boys and myself. It was a sight to see! So massive with giant copper roofs that contrasted beautifully with the stone walls.
 
 ![Alt text](/images/travel3/PXL_20230905_110601174.jpg)
 
-And then the inside! I couldn’t stop looking up. 
+And then the inside! I couldn’t stop looking up.
 
 ![Alt text](/images/travel3/PXL_20230905_112116707.jpg)
 
@@ -41,7 +45,7 @@ Dan's photo of the boys going down another level.
 
 ![Alt text](/images/travel3/PXL_20230905_114600336.jpg)
 
-We hit our ‘need to head back to the apartment’ time just as Dan and the other boys were heading out, gushing about how far down they went. We got back to the apartment and I set the kids about eating little things that I didn’t want to pack up. Sam found a coffee table type book and screams 'MOM!' I come rushing, having no idea what is happening and he responds "We've been there!". Things like that make you forget the bad days and the meltdowns. It's so worth it! 
+We hit our ‘need to head back to the apartment’ time just as Dan and the other boys were heading out, gushing about how far down they went. We got back to the apartment and I set the kids about eating little things that I didn’t want to pack up. Sam found a coffee table type book and screams 'MOM!' I come rushing, having no idea what is happening and he responds "We've been there!". Things like that make you forget the bad days and the meltdowns. It's so worth it!
 
 ![Alt text](/images/travel3/PXL_20230905_132349021.MP.jpg)
 

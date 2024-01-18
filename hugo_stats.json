@@ -15,6 +15,7 @@
       "h5",
       "head",
       "header",
+      "hr",
       "html",
       "iframe",
       "img",
@@ -193,7 +194,6 @@
     "ids": [
       "TableOfContents",
       "a",
-      "coming-soon",
       "family-community-property",
       "kid-packing-list",
       "luggage",
