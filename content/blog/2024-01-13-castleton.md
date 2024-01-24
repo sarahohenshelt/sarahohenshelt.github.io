@@ -1,7 +1,7 @@
 ---
 title: Castleton, England
 date: 2024-01-13
-description: ""
+description: "Still searching for the Peaks in Peak District National Park"
 #tags: ["emoji"]
 thumbnail: /images/travel6/IMG_20240115_173022_517.jpg
 ---
@@ -20,7 +20,7 @@ We wrangled the kids for a late lunch, basically handing them each a sandwich wh
 
 ![Alt text](/images/travel6/PXL_20240113_140402832.jpg)
 
-Shuhei and Dan were both doing their post docs in Boston at the same time and worked on a project together. And the reason we were so close to them is that Dan was going to be giving a talk in his lab the next day. Reluctantly back in the car, we drove the short 15 minutes to the trail head. After trying to figure out the online payment, and failing, I drove the car a bit down the road and parked on the road. We had driven by here on the way to our place and it was beyond packed. It was now 3, winds were picking up and all the smart people had headed home. 
+Shuhei and Dan were both doing their post docs in Boston at the same time and worked on a project together. And the reason we were so close to them is that Dan was going to be giving a talk in his lab the next day. Reluctantly back in the car, we drove the short 15 minutes to the trail head. After trying to figure out the online payment, and failing, I drove the car a bit down the road and parked on the road. We had driven by here on the way to our place and it was beyond packed. It was now 3, winds were picking up and all the smart people had headed home.
 
 Their friends also came, so we had a nice group AND extra kids. We started up to the summit and it was very cold, windy and foggy. No one seemed to care, which was awesome. I think the kids actually preferred it this way.
 
@@ -34,7 +34,7 @@ Mac knew the area and mentioned a couple options as loops and we continued along
 
 ![Alt text](/images/travel6/PXL_20240113_160534846.jpg)
 
-The kids did their best to make one also. 
+The kids did their best to make one also.
 
 ![Alt text](/images/travel6/PXL_20240113_160655799.jpg)
 
@@ -112,7 +112,7 @@ We found a little cafe in the back of an old inn/restaurant. Ordered a few slice
 
 ![Alt text](/images/travel6/PXL_20240114_161956362.jpg)
 
-Sam found this guy on the way to the bathroom and came back, basically shouting, "Ben, you HAVE got to see THIS!" I had been to the bathroom and knew exactly what he was talking about. Convinced them to finish the cake first and then Max all of a sudden had to pee SO badly. 
+Sam found this guy on the way to the bathroom and came back, basically shouting, "Ben, you HAVE got to see THIS!" I had been to the bathroom and knew exactly what he was talking about. Convinced them to finish the cake first and then Max all of a sudden had to pee SO badly.
 
 ![Alt text](/images/travel6/PXL_20240114_163339293.jpg)
 
@@ -138,7 +138,7 @@ Dan had to be at University of Sheffield at 12:30pm, but we didn't want any rush
 
 ![Alt text](/images/travel6/PXL_20240115_091339709.jpg)
 
-Dan was struggling with the directions for a bit as we were already driving, no connection, and all the kids were interrupting. Dan yelled to all be quite until we were on the road and knew were we going. Sam kept going and Dan said unless it's very time sensitive, just stop. Sam claimed his WAS time sensitive and I braced for it. Well, he was right...he had left his glove in the tree. U-turn, grabbed glove and back on the road. Ugh. A couple wrong turns, again google/navigator issues, but we made it there in plenty of time. 
+Dan was struggling with the directions for a bit as we were already driving, no connection, and all the kids were interrupting. Dan yelled to all be quite until we were on the road and knew were we going. Sam kept going and Dan said unless it's very time sensitive, just stop. Sam claimed his WAS time sensitive and I braced for it. Well, he was right...he had left his glove in the tree. U-turn, grabbed glove and back on the road. Ugh. A couple wrong turns, again google/navigator issues, but we made it there in plenty of time.
 
 With my back acting up so much, I just couldn't bear the thought of being in the car for 5.5hrs the next day to get to Edinburgh, which we had to get to for our interview. Looking at train tickets and car rental places, we decided to try and drop the car off early. Not wanting to deal with someone on the phone forever, we swung by the place and made the decision in about 5 minutes. We had all our stuff and I just couldn't deal with a cab and the stuff and Dan had to get to the university, so we dropped him off, went to the hotel and would come back with the car after. It was only 10 minutes away. Dan walking into his building.
 
@@ -164,7 +164,7 @@ Thinking about it now, I could have gone to the kid-free room, but the moment ha
 
 ![Alt text](/images/travel6/PXL_20240116_081029941.jpg)
 
-Packed and ready to go, we grabbed an Uber for the short ride to the train station. I can't be in a train station without taking a photo of the ceiling. 
+Packed and ready to go, we grabbed an Uber for the short ride to the train station. I can't be in a train station without taking a photo of the ceiling.
 
 ![Alt text](/images/travel6/PXL_20240116_092541968.jpg)
 
@@ -180,7 +180,7 @@ We have had a few train station instances where we are waiting on the platform f
 
 ![Alt text](/images/travel6/PXL_20240116_104206394.jpg)
 
-I hadn't drank enough coffee and went to grab a latte while we were standing on the platform. Looking at the menu board, they had a babychino for free. It actually said 'free' in the column for price! I got one for the kids to share, but could I have gotten 3? They put in 2 marshmallows, but I explained that I had 3 kids and they gave me another with a smile. 
+I hadn't drank enough coffee and went to grab a latte while we were standing on the platform. Looking at the menu board, they had a babyccino for free. It actually said 'free' in the column for price! I got one for the kids to share, but could I have gotten 3? They put in 2 marshmallows, but I explained that I had 3 kids and they gave me another with a smile.
 
 ![Alt text](/images/travel6/IMG_20240116_105125_146.jpg)
 
@@ -197,6 +197,4 @@ And inside the train when Max borrowed my phone.
 
 ![Alt text](/images/travel6/PXL_20240116_125450700.jpg)
 
-We arrived into Edinburgh and after being on a train for 3.5 hours, a walk to our Airbnb sounded better than a taxi. Google said 15 minutes, but it forgot to account for the giant staircases! Dan had to take 2 trips.
-
-![Alt text](/images/travel6/PXL_20240116_133018513.jpg)
+Continued on Edinburgh page...
