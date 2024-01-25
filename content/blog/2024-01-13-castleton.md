@@ -20,7 +20,7 @@ We wrangled the kids for a late lunch, basically handing them each a sandwich wh
 
 ![Alt text](/images/travel6/PXL_20240113_140402832.jpg)
 
-Shuhei and Dan were both doing their post docs in Boston at the same time and worked on a project together. And the reason we were so close to them is that Dan was going to be giving a talk in his lab the next day. Reluctantly back in the car, we drove the short 15 minutes to the trail head. After trying to figure out the online payment, and failing, I drove the car a bit down the road and parked on the road. We had driven by here on the way to our place and it was beyond packed. It was now 3, winds were picking up and all the smart people had headed home.
+Shuhei and Dan were both doing their post-docs in Boston at the same time and worked on a project together. And the reason we were so close to them is that Dan was going to be giving a talk in his lab the next day. Reluctantly back in the car, we drove the short 15 minutes to the trail head. After trying to figure out the online payment, and failing, I drove the car a bit down the road and parked on the road. We had driven by here on the way to our place and it was beyond packed. It was now 3, winds were picking up and all the smart people had headed home.
 
 Their friends also came, so we had a nice group AND extra kids. We started up to the summit and it was very cold, windy and foggy. No one seemed to care, which was awesome. I think the kids actually preferred it this way.
 
