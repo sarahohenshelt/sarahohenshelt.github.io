@@ -103,3 +103,7 @@ As we continued north and up in elevation, we started seeing snow, then more sno
 ![Alt text](/images/travel6/PXL_20240119_121715387.jpg)
 
 Pulled into our small little station. Outside there was about 3 inches of snow on the ground. Called a taxi and arrived at our place 6 minutes later.
+
+![Alt text](/images/travel6/IMG_20240119_134151_819.jpg)
+
+Continued on Aviermore page...
