@@ -3,7 +3,7 @@ title: Edinburgh, Week 1 of 3ish
 date: 2024-02-02
 description: "Please...can I please live here?"
 #tags: ["emoji"]
-thumbnail: images/travel6/PXL_20240203_112835942.jpg
+thumbnail: /images/travel6/PXL_20240203_112835942.jpg
 ---
 
 We got into our place and holy cr**...it was amazing! So much character, views, domed skylight and open kitchen. Terrible couches, but we could forgive that. Really nice to have 3 bedrooms and 2 bathrooms; we were in heaven. Dan and Ben headed straight out to the grocery store for some things, the other 2 ran around like dogs needing to pee on everything and I made some pasta with pesto we had brought with us and dried penne that was left over from previous guests. Sliced up bell peppers that Dan bought and we called it a dinner. And the kids were so excited to eat at the counter and I was fine with that...anything to have me sit less in the day.
