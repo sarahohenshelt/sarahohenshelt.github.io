@@ -388,8 +388,8 @@ The glare was real, but it didn't matter. We couldn't stop staring and I couldn'
 
 ![Alt text](/images/travel6/PXL_20240202_144128709.jpg)
 
-We went over an epic bridge, passing from North Queensferry to Queensferry. A small island was visible below, as well as the old pilings that they just chopped off about 3 feet above sea level and left. I did not capture any of this well.
+We went over an epic bridge, passing from North Queensferry to Queensferry. A small island was visible below, as well as the old pilings that they just chopped off about 3 feet above sea level and left. I did not capture any of this well. Good think Dan did.
 
-![Alt text](/images/travel6/PXL_20240202_144128709.jpg)
+![Alt text](/images/travel6/IMG_20240202_151255_428.jpg)
 
 Pulled into Edinburgh and easy walk to our place.
