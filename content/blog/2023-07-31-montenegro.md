@@ -1,5 +1,5 @@
 ---
-title: Montenegro
+title: Lovcen National Park, Montenegro
 date: 2023-07-31
 description: "Beautiful Nature and Old Towns"
 #tags: ["emoji"]

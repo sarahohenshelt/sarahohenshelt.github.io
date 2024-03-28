@@ -36,7 +36,7 @@ We ordered lots of food and the house bubbly…served in a 1 L carafe.
 
 ![Alt text](/images/travel/PXL_20230720_183426966.jpg)
 
-The waiter was awesome and the kids were so hungry that they ate well and fast. While waiting for the food we all drew our best Leaning Tower of Pisa on our placemats that we planned to have Grandma Hohenshelt judge. Sammy's drawing.
+The waiter was awesome and the kids were so hungry that they ate well and fast. While waiting for the food we all drew our best Leaning Tower of Pisa on our place mats that we planned to have Grandma Hohenshelt judge. Sammy's drawing.
 
 ![Alt text](/images/travel/PXL_20230720_184034787.jpg)
 
@@ -104,7 +104,7 @@ Pretty uneventful rest of the day. Drive was easy. Dropped them off at the port,
 ![Alt text](/images/travel/PXL_20230721_162306356.MP.jpg)
 ![Alt text](/images/travel/PXL_20230721_162401301.jpg)
 
-Dinner in the parlor with some instense car playing.
+Dinner in the parlor with some intense car playing.
 
 ![Alt text](/images/travel/PXL_20230721_170827214.jpg)
 

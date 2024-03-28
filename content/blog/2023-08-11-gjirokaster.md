@@ -1,5 +1,5 @@
 ---
-title: Gjirokaster
+title: Gjirokaster, Albania
 date: 2023-08-11
 description: "A fairy tale town, castle included"
 #tags: ["emoji"]

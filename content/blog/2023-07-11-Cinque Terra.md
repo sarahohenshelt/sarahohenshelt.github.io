@@ -1,5 +1,5 @@
 ---
-title: Cinque Terra
+title: Cinque Terra, Italy
 date: 2023-07-11
 description: "Meeting up with a high school bestie"
 #tags: ["emoji"]

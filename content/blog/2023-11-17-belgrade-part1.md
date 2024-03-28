@@ -1,5 +1,5 @@
 ---
-title: Belgrade, Part 1
+title: "Belgrade, Serbia: Part 1"
 date: 2023-11-17
 description: "No expectations"
 #tags: ["emoji"]

@@ -1,5 +1,5 @@
 ---
-title: First bit in Ankara
+title: First bit in Ankara, Turkey
 date: 2023-09-15
 description: "If the food is any indication, I think we are going to like it here!"
 #tags: ["emoji"]

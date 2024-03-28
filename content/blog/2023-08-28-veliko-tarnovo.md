@@ -1,5 +1,5 @@
 ---
-title: Veliko Tarnovo
+title: Veliko Tarnovo, Bulgaria
 date: 2023-08-28
 description: "A Castle, A Communist Lair, A Beautiful Setting"
 #tags: ["emoji"]

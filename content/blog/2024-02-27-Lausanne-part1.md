@@ -1,5 +1,5 @@
 ---
-title: Lausanne, Part 1
+title: "Lausanne, Switzerland: Part 1"
 date: 2024-02-27
 description: "Different skies everyday"
 #tags: ["emoji"]

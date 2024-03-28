@@ -1,5 +1,5 @@
 ---
-title: Belgrade, Part 2
+title: "Belgrade, Serbia: Part 2"
 date: 2023-11-19
 description: "A smaller Vienna, with extra trees"
 #tags: ["emoji"]
