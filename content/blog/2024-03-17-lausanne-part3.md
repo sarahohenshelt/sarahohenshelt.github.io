@@ -1,7 +1,7 @@
 ---
-title: Lausanne, Switzerland Part 3
+title: "Lausanne, Switzerland: Part 3"
 date: 2024-03-17
-description: "Robots & Spring!"
+description: "Robots & Spring"
 #tags: ["emoji"]
 thumbnail: /images/travel7/PXL_20240320_115205258.MP.jpg
 ---
