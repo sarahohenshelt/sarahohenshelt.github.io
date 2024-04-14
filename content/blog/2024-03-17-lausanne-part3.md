@@ -18,7 +18,7 @@ Dan then took the car back and I put things away. We did a quick 'check out the 
 
 ![Alt text](/images/travel7/PXL_20240317_185046325.jpg)
 
-The night before, there had been macaroni and cheese on the menu, but we convinced the kids to try something else. After that, they were set on me making it for them. I looked up a recipe and it seemed simple enough...make macaroni, make cheese sauce and combine. I tried, but the cheese wouldn't melt in the heated milk, so I went for dumping some milk, grated cheese and macaroni all together. Totally worked! Kids were so happy. 
+The night before, there had been macaroni and cheese on the menu, but we convinced the kids to try something else. After that, they were set on me making it for them. I looked up a recipe and it seemed simple enough...make macaroni, make cheese sauce and combine. I tried, but the cheese wouldn't melt in the heated milk, so I went for dumping some milk, grated cheese and macaroni all together. Totally worked! Kids were so happy.
 
 ![Alt text](/images/travel7/PXL_20240317_163243287.MP.jpg)
 
@@ -71,11 +71,11 @@ And again, worrying something would break, the kids got to touch another robot, 
 
 ![Alt text](/images/travel7/PXL_20240320_122053675.MP.jpg)
 
-We then got a tour of probably the most exciting part, the lab hang out area, that had a table full of candy. Alihan, from Turkey, had even brought in some Turkish Delights, much to the delight of the kids. :) We then went to another building to see the last stop on the tour, a program that allowed you to 'ski' down a mountain. You steered by shifting your weight and behind you was a pad that was tilting and vibrating, based on what was happening currently with the terrain. The idea, I believe, was eventually combine the controller pad and the moving pad so you could feel all the feels you would if you were skiing, minus the crashing. 
+We then got a tour of probably the most exciting part, the lab hang out area, that had a table full of candy. Alihan, from Turkey, had even brought in some Turkish Delights, much to the delight of the kids. :) We then went to another building to see the last stop on the tour, a program that allowed you to 'ski' down a mountain. You steered by shifting your weight and behind you was a pad that was tilting and vibrating, based on what was happening currently with the terrain. The idea, I believe, was eventually combine the controller pad and the moving pad so you could feel all the feels you would if you were skiing, minus the crashing.
 
 ![Alt text](/images/travel7/PXL_20240320_124319277.jpg)
 
-We wrapped it all up, said our bye and thank yous and decided to walk down to the lake. Dan had some time and it did sound pretty nice. The sun was out and it really felt warm. There were some students jumping in the water. It really was such a nice day and so nice to just sit with Dan take in the view while the kids played. 
+We wrapped it all up, said our bye and thank yous and decided to walk down to the lake. Dan had some time and it did sound pretty nice. The sun was out and it really felt warm. There were some students jumping in the water. It really was such a nice day and so nice to just sit with Dan take in the view while the kids played.
 
 ![Alt text](/images/travel7/PXL_20240320_131309262.jpg)
 
@@ -125,15 +125,15 @@ Kids actually slept in a bit. This guy though, was getting into the habit of com
 
 ![Alt text](/images/travel7/PXL_20240322_073531358.jpg)
 
-After so many nights eating in, due to the craziness of prices in Lausanne and not finding places we were so excited to go, we decided to eat out this night. Dan had walked past a Turkish restaurant, and we are still huge fans to say the least. We ordered it all: la macun, cacik, manti, corba, sarma, kofta, doner and pide. 
+After so many nights eating in, due to the craziness of prices in Lausanne and not finding places we were so excited to go, we decided to eat out this night. Dan had walked past a Turkish restaurant, and we are still huge fans to say the least. We ordered it all: la macun, cacik, manti, corba, sarma, kofta, doner and pide.
 
 ![Alt text](/images/travel7/PXL_20240322_170025813.jpg)
 
-Yeah, we ordered too much, but I happy to have leftovers. 
+Yeah, we ordered too much, but I happy to have leftovers.
 
 ![Alt text](/images/travel7/PXL_20240322_170009864.jpg)
 
-The next day was Saturday and we decided to take a boat across the lake to France. There were two town to choose from and we went with Evian. The plan was to take a bus to a bus to get us to the ferry port. After the debacle of the other night getting home from the park, I decided a little checks and balances was in order. I also believe in a little extra walking if that equates to less transfers. Why do an extra transfer if you can just walk 5 extra minutes? Well, it was a very stressful, bickering trip to say the least. We did get there and got seats next to the window. 
+The next day was Saturday and we decided to take a boat across the lake to France. There were two town to choose from and we went with Evian. The plan was to take a bus to a bus to get us to the ferry port. After the debacle of the other night getting home from the park, I decided a little checks and balances was in order. I also believe in a little extra walking if that equates to less transfers. Why do an extra transfer if you can just walk 5 extra minutes? Well, it was a very stressful, bickering trip to say the least. We did get there and got seats next to the window.
 
 ![Alt text](/images/travel7/PXL_20240323_100253614.jpg)
 
