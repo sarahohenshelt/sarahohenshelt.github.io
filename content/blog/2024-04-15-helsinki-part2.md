@@ -126,6 +126,16 @@ Dan is so awesome about sending my photos of their adventures and makes me so ha
 ![Alt text](/images/travel8/PXL_20240420_090847852.jpg)
 ![Alt text](/images/travel8/PXL_20240420_091304586.jpg)
 
+Not wanting to cook, we picked a noodle place just around the corner. Sam was struggling with listening, so I took the listeners over to get a table while Dan stayed back with Sam. He turned it around and they showed up right as the table was ready. We had a table right were you could watch the guy stretch the noodles and we were all mesmerized by it. There was even a mirror above so you could see better.
+
+You got to pick your shape of noodle and then watch them being made. Pretty cool. Ben went with triangle, Sam/Max went with thin, I did wide/flat and Dan did medium.
+
+![Alt text](/images/travel8/PXL_20240420_145615091.jpg)
+
+It was so good and just what you'd want with snow falling outside.
+
+![Alt text](/images/travel8/PXL_20240420_145741666.jpg)
+
 One thing I will never fully get about some parts of Europe is the shower integrated into the bathroom. I'm sure there are reasons, but the floor is always wetter than you hoped for after...even with the squeegee.
 
 ![Alt text](/images/travel8/PXL_20240418_061116880.MP.jpg)

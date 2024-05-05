@@ -1,5 +1,5 @@
 ---
-title: "Helsinki, Finland"
+title: "Helsinki, Finland: Part/Week 1"
 date: 2024-04-08
 description: "Like reuniting with an old friend"
 #tags: ["emoji"]
