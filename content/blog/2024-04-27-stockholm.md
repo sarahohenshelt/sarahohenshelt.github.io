@@ -209,6 +209,7 @@ And so going through the old photos later of Ben as a little munchkin.
 
 ![Alt text](/images/travel9/DSC01449.jpg)
 ![Alt text](/images/travel9/DSC01531.jpg)
+![Alt text](/images/travel9/DSC01777.jpg)
 
 We crossed the bridge to the old town being blasted by wind; the old town is his own island. We climbed up a bit to where the Royal Palace and attempted to get a photo of the kids.
 
