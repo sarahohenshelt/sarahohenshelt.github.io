@@ -4,8 +4,8 @@ date: 2024-04-27
 description: "Two days on a ship to see a very old ship"
 #tags: ["emoji"]
 thumbnail: /images/travel8/PXL_20240428_101734265.jpg
-
 ---
+
 This was a last minute trip, as I wasn't sure I wanted to fit it in and we were LOVING Helsinki. But never one to turn down an adventure, I decided 5 days before to book the tickets. It would be fun, Dan could use a couple kid-free days and why not go explore another city for an afternoon?
 
 Check-in was incredibly easy. I entered my conformation number into the kiosk and out popped all our tickets. They were credit card sized and we each had one. They allowed us entry onto the ship, to the breakfast buffet I prepaid and mine also had the room key on it. Then two more popped out for our buffet dinner entry. It hurt to pay 40 euros/adult for the buffet dinner, as I'm not a big eater nor heavy drinker when I'm solo with the kids, but we were going for convenience. And I figured Ben would do his share of fish consumption to make up for it a bit. We gave hugs to Dan, scanned ourselves through and started down the very long walkway here where we saw Dan below walking back home.
